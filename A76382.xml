@@ -1,0 +1,751 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vsura accommodata, or A ready vvay to rectifie usury, in a briefe declaration hovv that evill which is so often found and justly complained to be sometimes in lending for gaine, may find a safe and certaine remedy. / By I. Benbrigge· philopolitēs. Published according to order.</title>
+            <author>Benbrigge, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76382</idno>
+            <idno type="STC">Wing B1867</idno>
+            <idno type="STC">Thomason E353_22</idno>
+            <idno type="STC">ESTC R201088</idno>
+            <idno type="EEBO-CITATION">99861653</idno>
+            <idno type="PROQUEST">99861653</idno>
+            <idno type="VID">113793</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113793)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E353[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vsura accommodata, or A ready vvay to rectifie usury, in a briefe declaration hovv that evill which is so often found and justly complained to be sometimes in lending for gaine, may find a safe and certaine remedy. / By I. Benbrigge· philopolitēs. Published according to order.</title>
+                  <author>Benbrigge, John.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for Nathaniel Brookes at the Angell in Cornhill below the Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The word "philopolitēs in title is in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "7bre [i.e. September] 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Usury --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113793:1" rendition="simple:additions"/>
+            <p>
+               <hi>VSVRA ACCOMMODATA,</hi> OR A READY VVAY TO RECTIFIE USVRY, IN A BRIEFE DECLARATION Hovv That Evill which is ſo often found and juſtly complained to be ſometimes in Lending for Gaine, may find a ſafe and certaine REMEDY.</p>
+            <p>By <hi>I.</hi> BENBRIGGE. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <q>
+               <hi>Felix imperium in quo ſubditi evadunt tum meliores, tum eti<g ref="char:EOLhyphen"/>am ditiores.</hi> i. e. Happy is that Government, wherein the People become both better and richer. <hi>Danaeus in Aphoriſm. Polit. Civitates tunc intereunt cum boni neque<g ref="char:EOLhyphen"/>unt a malis diſcerni.</hi> i. e. States do then decay when their good members cannot be diſcerned from the evill. <bibl>Antiſthen: apud Diog. L<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rt. lib. 6.</bibl>
+            </q>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. S.</hi> for <hi>Nathaniel Brookes</hi> at the <hi>Angell</hi> in <hi>Cornhill</hi> below the <hi>Exchange.</hi> 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113793:2"/>
+            <pb facs="tcp:113793:2"/>
+            <head>TO The Religious and grave <hi>Senator</hi> WILLIAM HAY <hi>Eſquire,</hi> Burgeſſe in <hi>Parliament</hi> for the ancient Town of <hi>Rie, Grace and Peace be multiplied.</hi>
+            </head>
+            <opener>
+               <salute>Worthy <hi>SIR,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He noted Caſe of <g ref="char:V">Ʋ</g>ſury is both Theologicall and Politicall: the evill ſometimes ſeene and felt there<g ref="char:EOLhyphen"/>in, being an enemy both to God, rebelling againſt his Lawes; and to the Common-wealth, oppreſſing it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feeble members; Hence we ſee both Divines and Stateſ-men in Battell-array, and joyning their Forces to ſubdue that their Adverſary in common: and as that <hi>Aſſaſſinate</hi> layes ſo about him, as to fight al<g ref="char:EOLhyphen"/>wayes againſt God and man together, ſo to prevent his marching for<g ref="char:EOLhyphen"/>ward, thoſe his Aſſaylaents, to doe better Execution on him, doe on both ſides at once fall in, and breake up his plundering Quarters. The Di<g ref="char:EOLhyphen"/>vine acteth the Stateſ-mans part ſometimes beſides his owne, in rip<g ref="char:EOLhyphen"/>ping open the cloſe packt miſchiefe he doth to the Publicke-weale, and labouring its Redreſſe. The State-man at other times playes the Di<g ref="char:EOLhyphen"/>vine ſo well as the Lawyer, anatomizing the engendring wombe of his ſinfulneſſe againſt God, and directing to the Remedie thereof; In thus doing they have greatly advanced each others deſigne, and yet neither hath obtained his full deſire: wherefore as for my ſtepping in to helpe them both, their examples may be my warrant; ſo if I acheive not mine enterpriſe, their ſucceſſe ſhall be my comfort. I have therefore be<g ref="char:EOLhyphen"/>gun to publiſh mine endeavours in this way. Some old doting <hi>Mo<g ref="char:EOLhyphen"/>mus,</hi> or young one-eyed <hi>Zoilus</hi> will be quarrelling thereat, and be<g ref="char:EOLhyphen"/>daube
+<pb facs="tcp:113793:3"/> mee with ſome foule aſperſion or other (for never were there two Monſters (ſo they ought to ſeeme unto Chriſtians) ſo much Perſo<g ref="char:EOLhyphen"/>nated as in this preſent ago) wherefore to excuſe my boldneſſe (which by the Envious will be made a crime) <hi>Plutarch</hi> ſhall pleade,<note place="margin">In his Pre<g ref="char:EOLhyphen"/>cepts of policy</note> ſaying, In any Government whatſoever, a good Subject ought to ſtrive, (as it were) a Vie even with the Rulers, if they be Perſons of good ſort, and gracious behaviour, in diligence, care, and forecaſt for the benefit of the State, even in going to them, to give notice and intelli<g ref="char:EOLhyphen"/>gence of whatſoever is meet to be done, and putting into their hands to be executed that which he hath with mature deliberation rightly re<g ref="char:EOLhyphen"/>ſolved upon, thereby giving them meanes to winne honour to themſelves, and that by the benefit of the Common-wealth. My addreſſe in parti<g ref="char:EOLhyphen"/>lar, is Sir unto you, (whoſe ſincerity towards God our Heavenly Fa<g ref="char:EOLhyphen"/>ther, and fidelity towards <hi>England</hi> our Earthly Mother is ſo well knowne) partly, becauſe you are a Burges in Parliament for <hi>Rie,</hi> a Towne, to which I am moſt indebted, for giving mee my firſt enter<g ref="char:EOLhyphen"/>tainment in this world, as it did both firſt and laſt unto my deceaſed Parents: who when they lived, as they highly eſteemed of you, ſo were they reſpected by you; But eſpecially becauſe of my Obligement by your manifold and unmerited kindneſſe to mee; for which even an heathen would hate to be unthankefull. It is my griefe I can returne no livelier expreſſions of my gratefull minde, yet am I not afraid to preſent theſe, knowing your gracious diſpoſition to be ſuch, as, like God, you looke at the heart,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> more then at the hand of the giver. Wherefore not doubting of your right hands acceptance of this ſmall token of my good-will, (though it anſwer to your worth no more then it doth to mine owne de<g ref="char:EOLhyphen"/>ſire) to my prayers as in generall for an Almighty Bleſſing on the Great Councell, to continue its proſperous proceedings unto the perfection of that great, becauſe ſo good, worke begun in Church and State, ſo in particular, both for your preſent health, whereby you may be the better enabled to ſerve your God and Countrey, and ſee your deſires crowned with accompliſhment, before you goe hence; and for your future hap<g ref="char:EOLhyphen"/>pineſſe crowning you with unſpeakeable joyes, when you ſhall leave this Vale of Trouble, and enter into the holy Hill of Reſt, there to reſt from all your labours for evermore. I onely adde the Name of</p>
+            <closer>
+               <signed>Your humble Servant <hi>John Benbrigge.</hi>
+               </signed>
+               <dateline>Aſhburnham. <date>May 6. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113793:3"/>
+            <head>A Ready way to rectifie VSURY.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S it is the hearty deſire of every good man, ſo it is his duty, as farre as the circumference of his proper Sphere, the firſt Moover hath ſet him in, to put forth himſelfe in a willing endeavour, that all evill in generall, and ſo in particular, the horrid miſchiefe ſo commonly practiſed in Uſury, and as deſervedly condemned by the Learned on all ſides, may ſafely be prevented: Wherefore to expreſſe mine affecti<g ref="char:EOLhyphen"/>on to the Publicke-Good, and to diſcharge my duty thereunto, I humbly crave leave briefely to propound, what I doe conceive will greatly conduce to the ſpeedy effect of ſo commendable a worke.</p>
+            <p>The Suppreſſion of all Vſury, which ſome have projected as neceſſary thereunto, as it cannot ſtand with Juſtice, ſome kinds thereof being moſt equall; ſo in Civill Policy it is no leſſe im<g ref="char:EOLhyphen"/>poſſible in regard of the Weale-Publicke: becauſe thereby the Vitall Spirits of the Body Politicke would be ſuffocated, at leaſt ſo farre obſtructed from their moſt requiſite courſe through its particular members, as to endanger the whole into a lingring conſumption, which will end, though at length, in an undoubt<g ref="char:EOLhyphen"/>ed ruine. For (as a great States-man hath left behind him) <hi>It is impoſſible to conceive the number of Inconveniences that will enſue if Borrowing be Cramped;</hi>
+               <note place="margin">
+                  <hi>L. Bacon</hi> in his Eſſay of Uſury.</note> Therefore to ſpeake of aboliſhing V<g ref="char:EOLhyphen"/>ſury is idle; All eſtates have ever had it, in one kinde, or rule, or other, ſo as that opinion muſt be ſent to <hi>
+                  <g ref="char:V">Ʋ</g>topia.</hi>
+            </p>
+            <pb n="2" facs="tcp:113793:4"/>
+            <p>Neither can a State be ſafe, whileſt the Current of Vſury is ſuffered to overflow, without any reſpect had to the different conditions of men therein: For the feare of an eminent, and imminent danger, working upon the diſtracted minde ſo miſteth the underſtanding of a man ſtormed with extreame neede, as it eaſily miſleads him into that miſchievous miſtake of a Neceſſity of his Borrowing on Vſury, even for preventions ſake. And ſuch is the covetouſneſſe of many ſelfe-ſeeking lenders, as, in a caſe of preſent gaine eſpecially, they will make no diſtinction of perſons comming to borrow. Thus ſome runne headlong to their owne undoing in borrowing, other helpe them for<g ref="char:EOLhyphen"/>ward by lending to them on uſury, and both follow their depra<g ref="char:EOLhyphen"/>ved wills without contradiction from the Publicke-Magiſtrate: by ſome poenall notice taken of the miſchiefes which accrue by ſuch their unlawfull doings. Hence it is that the malignitie of this corroding humour, is become ſo praedominant, as by ſome it is taken to be paſt all cure.</p>
+            <p>It is confeſſed that divers good and approved medicines both <hi>Theologicall</hi> and <hi>Politicall,</hi> have been by the Skillfull adminiſtred to this running Plague-ſore of the Common-Wealth,<note place="margin">Iniquiſſimum eſt deſperatio<g ref="char:EOLhyphen"/>nes vocari, quoties re<g ref="char:EOLhyphen"/>medium me<g ref="char:EOLhyphen"/>dicina non invenit. <hi>Quintil.</hi> de<g ref="char:EOLhyphen"/>clam. 8.</note> and that they have not wrought the ſound effect, which was expected; yet may we not therefore utterly deſpaire of remedy. <hi>Cuncta tentanda prius.</hi> So long as life remaines, Hope of cure may con<g ref="char:EOLhyphen"/>tinue; and herein the rather, becauſe there is One Receipt, not yet tried, and yet eaſily to be procured for the healing of this Malady.</p>
+            <p>The worke eſpecially intended for this purpoſe is, <hi>That thoſe ſwelling Streames of Lending and Borrowing may be reduced into their right Channels.</hi> For if they were brought backe thereto, and ſtrictly kept therein, then the ſwifter their courſe, the ſoo<g ref="char:EOLhyphen"/>ner, and more fully would they emptie themſelves into the Maine Ocean of the Common-Good.</p>
+            <p>The moſt proper meanes probably conceived to produce this Worke is The caſting up of a Bancke, which muſt be twofold, according to Borrowers, who are of two ſorts.</p>
+            <p n="1">1. Some Borrowers, in their borrowing aime at no more then to ſtoppe the mouth of their preſent and greedy want, which extreamely craves maintenance for themſelves, their Families
+<pb n="3" facs="tcp:113793:4"/> and Eſtates. Theſe men finding little or no Reliefe from the Hand of charity, conceive their only Refuge to be Vſury; But theſe poore Soules beguile themſelves with this <hi>fanaticall</hi> appre<g ref="char:EOLhyphen"/>henſion which drives them not into (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) a Sanctu<g ref="char:EOLhyphen"/>ary, but betrayeth them, ſo that they become (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) a prey to ſuch ravenous creatures, as lye in waite to inſnare and devoure them and their Goods. Wherefore that theſe indigent perſons periſh not,<note place="margin">
+                  <hi>Seſſ.</hi> 22. <hi>cap.</hi> 8. Mons Pietatis eſt quaedam ſumma pecu<g ref="char:EOLhyphen"/>niae aut rerum pecuniâ aeſti<g ref="char:EOLhyphen"/>mabilium, quae in pauperum refugium vel a divite uno, vel multis aut Principe vel Repub. aut aliquâ com<g ref="char:EOLhyphen"/>munitate re<g ref="char:EOLhyphen"/>poſita eſt. <hi>Caſ. lib.</hi> 5. <hi>cap.</hi> 38.</note> nor their tottering Eſtates goe to wracke on thoſe mercileſſe Rocks; for their Reſcue may be collected <hi>Mons pietatis, ſive charitatis,</hi> A Banke of piety or charity, as they of <hi>Trent</hi> f<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly call it. That is, (as <hi>Tolet</hi> well deſcribes it) <hi>A cer<g ref="char:EOLhyphen"/>taine ſumme of money,</hi> or things eſtimable by money, which is laid up for the reliefe of the poore, either by one rich man, or by ma<g ref="char:EOLhyphen"/>ny, either by a Prince, or Common-Wealth, or ſome Company.</p>
+            <p n="2">2. Other Borrowers there are, who by their borrowing intend only to get and gain in their ſeverall wayes of Trade and im<g ref="char:EOLhyphen"/>ployment. For their ſupply as their occaſions ſhall require, may be erected <hi>(Mons negotiationis)</hi> a Bank of Trade, as it may not un<g ref="char:EOLhyphen"/>fitly be ſtiled; that is, <hi>Such a ſumme of money</hi> as ſhould alwayes be ready and able upon good Security to lend on Vſury to ſuch as in their Trading ſhall have occaſion to borrow.</p>
+            <p>Having thus weighed anchor, and launched forth into the depth of this Paſſage; I hope it will not offend any if I adventure ſomewhat further, for the Generall benefit to ſound it ſo far, as the little line of my weake underſtanding will reach to diſcover.</p>
+            <p>Firſt, How it doth appeare that theſe Bankes are lawfull.</p>
+            <p>Secondly, How they may be collected and raiſed.</p>
+            <p>Thirdly, The Order and Manner of them to be conſtituted.</p>
+            <p>Fourthly, What Benefits will redound by their Vſe.</p>
+            <div type="part">
+               <p>Firſt, The lawfulneſſe of theſe Bankes; As they are two, ſo the ground of their legality is twofold.</p>
+               <p n="1">1. Charity erects one, which accordingly beares the name of its Founder, and it is called <hi>(Mons Charitatis)</hi> the Banke of Cha<g ref="char:EOLhyphen"/>rity. To oppoſe then the ſetting up hereof, is plainely to with<g ref="char:EOLhyphen"/>ſtand Charity, and in ſo doing a man both proves himſelf to have no charity, and diſproves before God and men, all the good he either pretends to have or to doe. Hence the beſt Caſuiſts amongſt the Pontificia<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, not onely allow, but alſo avow
+<pb n="4" facs="tcp:113793:5"/> that Banke of this kind, which <hi>Leo</hi> the tenth, in the <hi>Lateran</hi> Councell held <hi>May</hi> the 4<hi rend="sup">th</hi> 1515. did both confirme &amp; commend; and doubtleſſe ſo much of his praiſe thereof as ſavours not of the <hi>Romiſh Guſt,</hi> will not prove diſtaſtfull unto any judgement that is ſound. <hi>We</hi> (ſaith that Biſhop) <hi>with the approbation of the Councell declare and determine that the Bankes of Charity inſtituted by Common-wealths,</hi> neither doe nor have any colour of evill in themſelves, they yeeld none occaſion of doing evill, and can by no meanes be reproved: nay rather ſuch lending ought to be praiſed, approved and in no caſe conceived to be <hi>
+                     <g ref="char:V">Ʋ</g>ſurarious,</hi> yea that their Piety and Pity ſhould be preached or publiſhed to all People.<note place="margin">
+                     <hi>Seſſ.</hi> 10.</note>
+               </p>
+               <p n="2">2. The Banke of Trade is founded on Equity. He therefore who ſhall oppoſe the making up hereof, ſeemes no leſſe unjuſt, then he uncharitable that reſiſts the former. The Equity of this Banke is evident from the Juſtice which appeares to be in re<g ref="char:EOLhyphen"/>quiring of gaine for the Vſe of money lent as Merchandize; which yet if any ſcruple at, I ſhall (ſo ſoone as my inter<g ref="char:EOLhyphen"/>vening imployment will permit) make as cleare as the day (for ſo it ſeemes to me) in a full reſolution of his doubts concerning ſuch Lending For the preſent, as more proper to our buſineſſe in hand, we will for confirmation of this latter Banke, produce ſome Patterns of Precedent examples herein.</p>
+               <p>This kind of Banke cannot be accounted a Novelty, ſince it is knowne to ſuch as have travelled either their owne Studies, or other mens Countries, that Forraigne Nations have been long acquainted with Bankes of this nature.<note place="margin">Ubi ſupra: <hi>Cap.</hi> 39.</note> That noted <hi>Caſu<g ref="char:EOLhyphen"/>iſt Tolet</hi> informes us of two, which though they differ ſome<g ref="char:EOLhyphen"/>what in name from this Banke deſired, yet in regard of the Act of Vſury, they are one and the ſame with it; yea and that learned man, though a profeſſed enemy to all Vſury, allowes them both.</p>
+               <p>One he names <hi>Mons Fidei,</hi> a Banke of Truſt: which <hi>Clement</hi> the ſeventh inſtituted at <hi>Rome;</hi> In it Seven were given for the uſe of an Hundred <hi>per annum</hi> for ever; becauſe he that puts his money into this Banke, was never to take it out againe; ſo that the Annuall Vſe-money of Seven, were to him his Executors and Aſſignes for ever, and might be bought and ſold like as Annuites are with us.</p>
+               <pb n="5" facs="tcp:113793:5"/>
+               <p>The other he ſtiles, <hi>Mons Recuperationis,</hi> a Banke of Recove<g ref="char:EOLhyphen"/>ry. This <hi>Pius</hi> the Fourth ordained, and herein Twelve were gi<g ref="char:EOLhyphen"/>ven for the uſe of an Hundred <hi>per annum,</hi> ſo long as he lived, who put his money into the Banke; and when he died, his mo<g ref="char:EOLhyphen"/>ney remained to the Banke, except he died within the firſt three yeares; Beſides, he that had this Penſion of Twelve during his life, might ſell the ſame to another for his life, with this <hi>Proviſo,</hi> That the Seller live forty dayes after the Sale and Alienation.</p>
+               <p>To theſe many others may be brought in from the <hi>Hollanders</hi> and other Nations, but Brevity onely preſents the <hi>Chamber of London.</hi> Whereinto men may put in their moneys, for the Aſ<g ref="char:EOLhyphen"/>ſurance whereof, and the payment of its Vſe (which is Five in the Hundred <hi>per annum</hi>) they have the Security of the Cham<g ref="char:EOLhyphen"/>ber, which is accounted the beſt this day in <hi>England.</hi>
+               </p>
+               <p>Thus may the indifferent, yet Intelligent Reader, ſee how theſe Bankes are lawfull.</p>
+               <p n="2">2. The meanes of their Collection like themſelves, are di<g ref="char:EOLhyphen"/>vers.</p>
+               <p n="1">1. The Banke of Charity may be raiſed,</p>
+               <p n="1">1. By the Liberality and Bounty of charitable and able Per<g ref="char:EOLhyphen"/>ſons. For mine owne part, I am confident, if this good worke were once ſet on foot, that many Well-diſpoſed People, would readily bring materialls, not onely to lay a Foundation for it, but alſo to reare the Walls, and finiſh it to its Vſefulneſſe, by furniſhing it with their moneys; contributing their uſe un<g ref="char:EOLhyphen"/>till ſome occaſion ſhall call for them to be imployed in ſome neceſſary way of their private and particular affaires. That lit<g ref="char:EOLhyphen"/>tle acquaintance I have with Antiquity perſwades mee to this ſtrong beliefe; For that gives us ſtore of examples in this kind: we need not bring forth Forraigne acts, this Land hath yeelded as charitable Perſons as any other in the world, and in as great a plenty; it may for a taſte ſuffice to adde one or two. <hi>John B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rnes</hi> Mercer Major of <hi>London</hi> 1371 <hi>in Anno Regui Edwardi ter<g ref="char:EOLhyphen"/>tii</hi> 450 gave a Cheſt with three locks and a thouſand Markes to be lent to young men upon ſufficient pay,<note place="margin">
+                     <hi>See</hi> Stow's Chronicle.</note> ſo that it paſſed not one hundred Markes. The gift of Sir <hi>Thomas White</hi> Major of <hi>London</hi> in Queene <hi>Maries</hi> fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt yeare 1553, was farre greater, for he gave to the City of <hi>Briſtoll</hi> two thouſand pounds of ready
+<pb n="6" facs="tcp:113793:6"/> money: eight hundred pound whereof was to be lent <hi>Gratis</hi> to ſixteen poore young men Clothiers, &amp;c. Theſe may ſerve to hint the probability of this meanes.</p>
+               <p n="2">
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 2 <hi>Tim.</hi> 2.1, 2.</note>2. But if charity in men ſhould prove ſo cold, that they come not freely off in this way, as may too juſtly be feared in theſe laſt and hard times, wherein Selfe beares rule with ſo high a hand in moſt men, that their hearts are adamantine towards others; then may it pleaſe the State to enact for a Law, That they who doe put one thouſand pound into the Banke of Trade for Vſury, ſhall put one hundred into the Banke of Charity, <hi>gratis,</hi> there to remaine ſo long as the other doth in the former Banke. And this would excellently ſuite with</p>
+               <p n="1">
+                  <note place="margin">Epiſt. 383. a. Caſ. lib. 5. cap. 44.</note>1. That Caution which <hi>Calvine, Ameſius,</hi> and other Divines allowing ſome Vſury, doe give unto the Vſurers, <hi>viz.</hi> He which lends on Vſury ſhould not be ſo addicted to his gaine and profit that in the Interim he neglect or omit what he is bound by mee<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e neceſſitie to doe, either in lending freely to them in want, or in giving <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> right according to his ability.</p>
+               <p n="2">2. The proportion of one hundred to a thouſand doth agree with the different number of theſe differing Borrowers; there being ten Borrowers to trade for gaine, to one Borrower for extreame neceſſity, as is moſt evident to any that obſerve.</p>
+               <p n="3">3. For another meanes to erect this charitable building, the Maſters of Aſſemblies, by the Publicke Magiſtrate may be re<g ref="char:EOLhyphen"/>quired to exhort ſuch in their ſeverall Flocks as are able to ſet their helping hands thereto, by ſuch Arguments as their wiſer judgments can produce.</p>
+               <p n="4">4. When rich men die inteſtate, and without heires in Law, whereby their goods and eſtates come either in part or in whole to be diſpoſed by the diſcretion of the Judge in that Caſe pro<g ref="char:EOLhyphen"/>vided, he may be enjoyned by ſome Law for this cauſe to be made, That he ſhall order ſuch goods to be delivered into this Banke. So ſhould the poore become heires to thoſe rich men, whereby this Proverb of <hi>Solomon</hi> would frequently be made good;<note place="margin">
+                     <hi>Prov.</hi> 28.8.</note> 
+                  <hi>He that increaſeth his ſubſtance by biting <g ref="char:V">Ʋ</g>ſury and unjuſt gaine, ſhall gather it for him that will pity the poore.</hi>
+               </p>
+               <p n="5">5. When any perſons out of a charitable devotion are at any time minded to give towards any <hi>Hoſpitall,</hi> &amp;c. that they may
+<pb n="7" facs="tcp:113793:6"/> be perſwaded to give and bequeath the moneys they intended for that purpoſe, unto this Banke; becauſe the benefit they ſhall doe the poore hereby will be greater being more generall, then can be in thoſe other works.</p>
+               <p>But hereto Satan will brooke his name; For this ſubtile Ser<g ref="char:EOLhyphen"/>pent is apt to creepe into ſuch pious intents, by our naturall pride poſſeſſing us with a conceit of advancing our names, and perpetuating our memories by ſuch foundations called after our names, as <hi>Abſolon</hi> did by his pillar:<note place="margin">2 <hi>Sam.</hi> 18.18.</note> which (as he will plead to them) cannot or will not be, if they put their moneys into this Banke.</p>
+               <p n="6">6. Laſtly therefore to prevent this his wile.</p>
+               <p n="1">1. Such men may be put in minde of our Saviours direction in matter of Almes, this being no other if duly conſidered. His Rule is this; <hi>Take heed that you give not your almes before men,</hi>
+                  <note place="margin">
+                     <hi>Math.</hi> 6.1, 2, 3, 4.</note> 
+                  <hi>to be ſeen of them, or elſe you ſhall have no reward of your Father which is in heaven. Therefore when thou giveſt thine almes, thou ſhalt not make a trumpet to be blowne before thee, as the Hypocrites doe in the Synagogues and in the ſtreets, to be prayſed of men: Verily I ſay un<g ref="char:EOLhyphen"/>to you, they have their reward. But when thou doeſt thine almes, let not not thy right hand know what thy left hand doth: That thine almes may be in ſecret, and thy Father which ſeeth in ſecret be will reward thee openly.</hi>
+               </p>
+               <p n="2">2. But though no man ought to doe any pious and charitable worke in this (or any other) kind to be praiſed of men, but to teſtifie his obedience to Gods Command in the love of his Neighbour, yet it is indeed no leſſe then their due to receive Commendations from the State by its gratefull Comme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>on of their exemplary charity herein unto its more feeble &amp; de<g ref="char:EOLhyphen"/>crepite members. This is the laudable cuſtome of the Learned V<g ref="char:EOLhyphen"/>niverſities, to their pious Founders and bountifull Benefactors in particular. And if the Common-wealth ſhall thinke it fitting to imitate their uſuall practiſe in regiſtring the names of the Con<g ref="char:EOLhyphen"/>tributors to this Banke in the <hi>Table,</hi> and to hang it forth in ſome convenient place for a publicke view, yea and to keepe yearely a Feſtivall day, wherein their names may be ſolemnly declared to all ſuch Auditors as pleaſe to come; As it will be an excel<g ref="char:EOLhyphen"/>lent Teſtimony of gratitude to them, ſo it may be a prevailing
+<pb n="8" facs="tcp:113793:7"/> Incitement unto others to imitate their practice. For it is a truth of the <hi>Hiſtorian,</hi>
+                  <note place="margin">Etiam ſapien<g ref="char:EOLhyphen"/>tibus cupido gloriae noviſſi<g ref="char:EOLhyphen"/>mè exnitur. <hi>Tacitus.</hi>
+                  </note> 
+                  <hi>That the deſire of Fame or Glory, is one of the laſt things which even wiſe men can lay aſide.</hi>
+               </p>
+               <p>Thus may the Banke of Charity be raiſed.</p>
+               <p n="2">2. The way of collecting that of Trade is otherwiſe, as the end thereof is different from that of the former Banke.</p>
+               <p>
+                  <note place="margin">Summ. Part. 2<hi rend="sup">d</hi>. <hi>Tit.</hi> 1. <hi>c.</hi> 11.</note>
+                  <hi>Antonius</hi> relates how certaine Bankes wherein Vſury was paid to the Creditors, were raiſed at <hi>Florence, Venice,</hi> and <hi>Genoa,</hi> ſaying, <hi>When the City wanteth money, it impoſeth a Taxe or Scotupon the Citizens, which Scot hath ſeverall names in every City-where it is made; To the payment hereof whoſoever was unwilling, was compelled by the City, which yet allowed them five in the hundred Per Annum for <g ref="char:V">Ʋ</g>ſe, untill it was repayed.</hi> The taking of Vſury in this way hath been much controverted among the <hi>Pontificians,</hi> as ap<g ref="char:EOLhyphen"/>peares by the Archbiſhops diſcourſe thereof; yet he ſeemes to allow it, as doe alſo many other of the Learned amongſt them, as appeares by the Quotations of <hi>Bernardinus de Buſtis,</hi>
+                  <note place="margin">Roſar. Serm. 27. part. 2. lit. Y.</note> in a de<g ref="char:EOLhyphen"/>fence thereof; yet cannot I ſee ſo much ſtrength in their Argu<g ref="char:EOLhyphen"/>ments as may force my weake judgement to joyne iſſue with them. For to lend either to Prince or State, wherein we live, for Vſury, when they are neceſſitated to borrow, doth ſeeme to mee, farre more likely to be,</p>
+               <p n="1">1. <hi>
+                     <g ref="char:V">Ʋ</g>nnaturall;</hi> as for the child to refuſe to lend unto his Parents in their need, without ſome gaine as a reward there<g ref="char:EOLhyphen"/>fore.</p>
+               <p n="2">2. <hi>
+                     <g ref="char:V">Ʋ</g>ncharitable,</hi> in not taking a tender notice of their ne<g ref="char:EOLhyphen"/>ceſſity, which may be, and ſometimes is as great, and preſſing, as any Private Perſons whatſoever.</p>
+               <p n="3">3. <hi>
+                     <g ref="char:V">Ʋ</g>nreaſonable,</hi> becauſe their borrowing is not ſo much for themſelves, as for the publicke-Weale, wherein our owne Being, and Well-being are wrapped up, and become partakers of the benefit which redounds by their borrowing. So that to lend <hi>gratis</hi> to them, is but to contribute willingly to our owne good; and to lend them for increaſe, is to be hired to doe our ſelves a good turne.</p>
+               <p n="4">4. <hi>Cruell,</hi> for that lending to them on Vſury, when they borrow to ſupply their urgent need, in regard of the Common-good, doth bite both Prince and State ſo deepe as to expoſe
+<pb n="9" facs="tcp:113793:7"/> them to ruine by their impoveriſhment,<note place="margin">Qui Veneto<g ref="char:EOLhyphen"/>rum opes ex<g ref="char:EOLhyphen"/>tollunt, vehe<g ref="char:EOLhyphen"/>menter fal<g ref="char:EOLhyphen"/>luntur; nam <hi>Aera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>;</hi> publici magna eſt in<g ref="char:EOLhyphen"/>opia; Argu<g ref="char:EOLhyphen"/>mento ſit, Triplicis Montis ratio quae Uſuris quincuncibus publica ve<g ref="char:EOLhyphen"/>ct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>galia ex<g ref="char:EOLhyphen"/>haurit ut Gi<g ref="char:EOLhyphen"/>onatus Dona<g ref="char:EOLhyphen"/>tus confitetur. <hi>Method. Hiſt. Cap.</hi> 6.</note> as appeares by the in<g ref="char:EOLhyphen"/>ſtance of the three Bankes at <hi>Venice</hi> cited by <hi>Bodinus</hi> out of <hi>Donatus.</hi>
+               </p>
+               <p n="5">5. Moreover this Banke of Trade to be inſtituted is not onely for the Benefit of the Commonwealth <hi>(<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſtatu conjuncto)</hi> as one Body, but alſo and principally for the good thereof <hi>(in ſtat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſeparato)</hi> as conſiſting of many members, which doe often want ſupply to enable them to officiate in their ſeverall Voca<g ref="char:EOLhyphen"/>tions to their owne and others profit.</p>
+               <p n="6">6. Laſtly therefore the beſt and readieſt way to make up this Banke of Trade in this Land, is for the Honourable Court of Parliament to make it a Law, that every Perſon, who doth lend and put out his money on Vſury ſhall bring the ſame into this Banke upon the penalty of the loſſe of the Principall: and that none ſhall borrow on Vſury to gaine thereby but of this Banke, on ſome ſuch forfeiture as their wiſedome ſhall thinke moſt fit; And thus may both theſe Bankes be made up.</p>
+               <p n="3">3. The Order of their Inſtitution, and Manner of their Go<g ref="char:EOLhyphen"/>vernment deſerves ſome more experienced underſtanding, then my ſhallow capacity to regulate it. Yet that we may not ſeeme wanting to our utmoſt ability in helping forward ſo good and neceſſary a worke, what my ſimplicity reacheth unto herein, I ſhall not bluſh to ſignifie, thereby at leaſt to give ſome hints unto ſuch as are more quick-fighted in ſuch affaires, and can <hi>inventis facilè addere,</hi> what they ſhall finde to be much more ma<g ref="char:EOLhyphen"/>teriall to the uſefull framing of theſe buildings.</p>
+               <p n="1">1. For the ordering of the Banke of charity,<note place="margin">Ubi ſupra.</note> 
+                  <hi>Tolet</hi> layes downe theſe Lawes or Rules.</p>
+               <p n="1">1. That the ſummes delivered to thoſe needy borrowers be lent but for ſome ſhort time, a yeare, or more, or leſſe, as their neceſſary occaſions ſhall be found to require.</p>
+               <p n="2">2. That they be not ſuffered to exceed their time limited for repayment, that ſo there may be alwayes ſufficient to ſupply the wants of others that ſhall fall into their ranke.</p>
+               <p n="3">3. That theſe poore and neceſſitated borrowers give ſome pledge anſwerable to the ſumme they borrow, leſt they be<g ref="char:EOLhyphen"/>come negligent (as it is their cuſtome) in returning what they borrow, and ſo the Banke in time come thereby to be conſumed.</p>
+               <p n="4">
+                  <pb n="10" facs="tcp:113793:8"/>4. That if the money borrowed be not repaid at the time aſſigned, the pledge to be ſold, and what is due to the Banke being reſerved, the reſidue (if any be) to be returned to the Owner thereof.</p>
+               <p n="5">5. That theſe Borrowers doe for the time they enjoy the money lent them, returne ſome ſmall gaine with the Principall towards the Expences of the Officers of the Banke.</p>
+               <p>Of theſe Rules, the foure firſt I conceive may be allowed for good; though indeed the third may admit with the Pledge any other ſecuritie alſo: becauſe every ſuch borrower may not happily have a fitting pledge, and yet may otherwiſe be able to give ſufficient ſecurity for the money he doth want; But this ſecuritie muſt alſo have ſome forfeiture annexed to it, which <hi>Poſt moram,</hi> (as the <hi>Civilians</hi> ſpeake) may be a meanes to ſalve the Banke, if by their delay and default any loſſe and detri<g ref="char:EOLhyphen"/>ment doe betide it. This is no other then the <hi>
+                     <g ref="char:V">Ʋ</g>ſura punitoria,</hi> which is on very good reaſon allowed by all men.</p>
+               <p>The laſt Order before ſpecified, is that wherewith <hi>Cajetan Soto</hi> and others ſo much quarrell; And truly I cannot but take their part, when as the ſaid rule is impoſed on, and the gaine exacted from ſuch as borrow for meere neceſſities ſake, as in this Banke it is evident they doe; Becauſe it cannot be imagi<g ref="char:EOLhyphen"/>ned how theſe indigent borrowers, not gaining by the money borrowed, can returne any the leaſt increaſe, without a ſenſible biting of their feeble eſtates.</p>
+               <p>The Reaſon which the ſaid <hi>Tolet</hi> gives in defence of that his Rule, is the <hi>Indemnity</hi> of the Banke, as he (after his moſt un<g ref="char:EOLhyphen"/>holy Father) calls it; Becauſe, forſooth, the Banke muſt not ſo lend as to ſuffer loſſe.</p>
+               <p>But this his Reaſon holds not good herein.</p>
+               <p n="1">
+                  <note place="margin">Ubi ſupra</note>1. Becauſe the monies are put into this banke for a charitable uſe; Hence, I conceive, they are called Almes, by the men of <hi>Trent.</hi> That charitable uſe is the lending of them unto the poore and needy for ſome certaine time; and this their lending is no leſſe then an Almes-giving; Now Almes muſt be given <hi>Gratis,</hi> Charity muſt be without expectation of reward in the leaſt de<g ref="char:EOLhyphen"/>gree, elſe it loſeth both its name and nature, and degenerates into unjuſt Vſury.</p>
+               <p n="2">
+                  <pb n="11" facs="tcp:113793:8"/>2. Neither Banke nor Bankers (as I may call the Contribu<g ref="char:EOLhyphen"/>tors) can conceive they ſuffer any leſſe by their very act of len<g ref="char:EOLhyphen"/>ding to the poor freely in this way;<note place="margin">
+                     <hi>Prov.</hi> 19.17.</note> becauſe what they even give this way is lent on Vſury to the Lord, who at the furtheſt will at the great day of Accounts repay them with increaſe. Now it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt equitie to expect a double pay, one from God, and another from man, for one and the ſame worke, or to deſire a Recumbence where no dammage is to be approved.</p>
+               <p>
+                  <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>donate</hi> therefore endeavours to defend this Rule by ano<g ref="char:EOLhyphen"/>ther Device, ſaying,<note place="margin">Caſuum ſum<g ref="char:EOLhyphen"/>mulae quaeſt. 9. art. 10.</note> 
+                  <hi>The Poore in the City where ſuch a Banke is inſtituted, are Maſters both of the moneys put into the Banke, and of their <g ref="char:V">Ʋ</g>ſe, ſo that the Officers of the Banke are but their ſervants, and becauſe it is fitting that Maſters m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>intaine their ſervants, Ergo it is requiſite theſe poore Borrowers provide for theſe Officers, which they cannot doe more commodiouſly then by returning ſome gaine ac<g ref="char:EOLhyphen"/>cording to the ſumme they borrow.</hi>
+               </p>
+               <p>But this cunning fetch of that ſubtile Ieſuite, will not ſerve his turne.</p>
+               <p n="1">1. Becauſe as there is <hi>Jus Proprietatis, &amp; Jus Charitatis,</hi> ſo it is true, The Poore are Lords of the Vſe which in charity is given them; But the Contributors of that charitable uſe are Lords of their monies, and reſerve <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>till their Propriety in them, and by their ſaid Right have power to call for the ſaid monies out of this Banke when their owne affaires or pleaſures ſhall re<g ref="char:EOLhyphen"/>quire them.</p>
+               <p n="2">2. Though it be granted that the Poore are Lords of the Vſe of the ſaid monies ſo long as they remaine in this Banke, yet are they ſuch poore Lords, as they are not able to helpe them<g ref="char:EOLhyphen"/>ſelves, much leſſe to keepe and maintaine others.</p>
+               <p n="3">3. The Officers of the Banke are more properly the ſervants of the Contributors, whoſe monies are diſtributed by them in this way of loan unto the poore.</p>
+               <p n="1">1. Becauſe theſe Creditors did firſt let them at worke, by put<g ref="char:EOLhyphen"/>ting in, their monies towards the making up of their intruſted Stocke.</p>
+               <p n="2">2. All the buſineſſe of theſe Officers is about thoſe Creditors monies, as to give them out upon pledge, or other ſecuri<g ref="char:EOLhyphen"/>tie, and to looke unto their repaiment; The receiving and re<g ref="char:EOLhyphen"/>turning
+<pb n="12" facs="tcp:113793:9"/> of the poore mans pledge, is not properly for the poore m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake, but for the r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch mans monies ſake, that is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſecure it.</p>
+               <p n="3">3. Laſtly, becauſe theſe officers will ſeeme to be ſervants to theſe poore people, by reaſon of their continuall and readie at<g ref="char:EOLhyphen"/>tendance on them, when their neceſſitie drives them to the Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke for ſuccour. Therefore for a further and cleare anſwer thereto, it is ſaid, there is <hi>Officium ſervitutis,</hi> and <hi>Officium cha<g ref="char:EOLhyphen"/>ritatis,</hi> A Service for hire, and a Service for love. They that doe the former are properly call<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſervants, thoſe that doe the latter are in our Dialect properly named Friends, who yet fi<g ref="char:EOLhyphen"/>guratively, and thence complementally in theſe diſſembling times, ſtile th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelves, Servants to ſuch as they pretend to ſerve in that kinde The Scriptures indeed ſeeme to favour that uſe,<note place="margin">
+                     <hi>Gal.</hi> 5.13. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> (but not the common abuſe) of the word <hi>Servants,</hi> en<g ref="char:EOLhyphen"/>joyning all men <hi>in love to ſerve one another.</hi> Put this Service of love muſt be free, elſe it is not for love, but for lucre of the hire. Now the ſervice of the Officers of this Banke towards the Poore, is to be a ſervice of love and charitie, therefore it muſt be done freely to them, without any expectation of re<g ref="char:EOLhyphen"/>ward from them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But if the Officers live of the maine Stocke in the Banke, like moths they will eate up that which ſeeds them, and ſo conſume the Banke.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Nothing more ſure! But what? muſt therefore the poore borrower pay for it? Nothing more unjuſt. Other meanes muſt be fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd out, for the maintenance, of theſe officers, and none of the worſt, as it is one of the eaſieſt i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, a certaine revenue or ſtipend ſufficient to anſwer their expences and paines in this way, may be ordered to iſſue out, and be paid them from the other Banke; For</p>
+               <p n="2">2. Concerning the Banke of Trade, all the former five Rules may not onely be obſerved; but alſo the latter of them which r quires gaine from its debtors, may be ſo drawne up as to call for one in the hundred from the borrowers to gaine in tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding, more then the Banke ſhall pay to its Creditors; and from the Redundancie of that One will flow ſufficient meanes to maintaine the Officers of both Bankes, yea and to raiſe a com<g ref="char:EOLhyphen"/>mon Stocke to the Banke it ſelfe for the Commoditie of the whole State in generall.</p>
+               <pb n="13" facs="tcp:113793:9"/>
+               <p>To theſe Rules muſt be added ſome other, as</p>
+               <p n="1">1. To k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epe theſe two Bankes diſtinct, and thereby cleare from all abuſe in pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verting their proper courſe, it may pleaſe the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w makers to inflict ſome heavie penalty on ſuch as ſhall any way by their craft and ſubtilty, corrupt and diſorder either of them; And indeed thoſe who ſhall under a pretence of feigned neceſſity abuſe the charity of the Banke of Piety (that of the Two will be moſt ſubject unto abuſe) are farre worſe then thoſe counterfeit Rogues, who to deceive good perſons of their charity, uſe to implaiſter themſelves, and make a halting before them, when as they have neither ſoreneſſe, nor lameneſſe a<g ref="char:EOLhyphen"/>bout them; For theſe Hypocriticall borrowers doe withall ſteale from the Poore what is their due; Bankrupts they are indeed, and worſe then thoſe the Stature orders, who yet are not thereby ordered according to their deſerts.</p>
+               <p n="2">2. To prevent corruption from creeping into the Officers of theſe Bankes, they muſt be enjoyned to be accountable unto the Honourable Cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of Parliament, as to the great Maſter of theſe Bankes, by whom as they are to be ſetled, ſo muſt they be go<g ref="char:EOLhyphen"/>verned; For into that High and Wiſe Aſſembly, Partiality, and indirect carriage of buſineſſe cannot ſcru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> themſelves, as they have done into the Feoffees &amp; Governors of other charita<g ref="char:EOLhyphen"/>ble and pious Foundations in this Kingdome, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reby the true intent of their firſt Founders is exceedingly hindred, and ſome<g ref="char:EOLhyphen"/>times altogether overturned, and brought to nothing. As Ma<g ref="char:EOLhyphen"/>ſter <hi>John Barnes</hi> his cheſt (before ſpoken of) hath ſtood in the Chamber of <hi>London,</hi> emptie a long time without money or pledges for it. The like might be inſtanced in many other like Acts of charity, which hath been no little di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>couragement to ſuch Worthy mindes, as have been willing to imitate theſe faire Copies ſet before them.</p>
+               <p n="3">3. To make theſe Bankes more uſefull in their ſeverall wayes, there would be one in every County, and in that part thereof as ſhall be found moſt convenient for lenders and borrowers on all their occaſions to have recourſe unto, with little trouble of Travail, and leſſe charge of expence.</p>
+               <p>More Rules I will not preſume to mention; for if theſe doe p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſe thoſe ſage Senatours, in whoſe power it is to confirme
+<pb n="14" facs="tcp:113793:10"/> what they finde worthy of their approbation, they can out of the depth of their wiſedome draw both more and better. Where<g ref="char:EOLhyphen"/>fore I proceed to intimate,</p>
+               <p n="4">4. The benefit and commodious advantage which will ariſe unto the Body of the Common-Wealth, and its members by eſtabliſhing theſe two Bankes.</p>
+               <p>By the Banke of Charitie.</p>
+               <p n="1">1. The ſwift Torrent of unjuſt Vſury which ſwallowes up the low eſtates of ſuch poore borrowers as extreame neceſſitie (in their conceit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) drives to take upon Vſury, would be alto<g ref="char:EOLhyphen"/>gether ſtopped, and quickely dried up; This very particular hath prevailed with ſome wiſe Princes, to take this courſe in part.<note place="margin">
+                     <hi>Aemilius Pro<g ref="char:EOLhyphen"/>bus</hi> in his life tranſlated by Sir <hi>Thomas North.</hi>
+                  </note> As <hi>Auguſtus Caeſar</hi> in the yeare after Chriſt was born, to ſtay the violent courſe of great Vſuries, put into the Exchange two millions and an halfe of Gold, that is, Five and twenty hundred thouſand Crownes, and ſuffered private men to take of it for three yeares without Intereſt, putting in pawne into the Exchequer Lands and Poſſeſſion being twice as much worth as the Principall; The like did <hi>Tiberius Caeſar</hi> (as the <hi>Civilian</hi> of <hi>Naples</hi> tells us, happily out of <hi>Tacitus</hi>) by putting a hun<g ref="char:EOLhyphen"/>dred million of Seſterces (which amount to about to 78125 ſterling) in Banke, and lent it for three yeares ſpace without conſideration or Intereſt, if the debtor could give ſecurity to the People of <hi>Rome</hi> in Lands double the value of the debt:<note place="margin">Gen. Dier. lib. <hi>1.</hi> cap. <hi>7.</hi> Annal. lib. b. c. <hi>4.</hi>
+                  </note> and the Emperors aime herein was to take away that Vſury which had almoſt ſqueezed the poore out of their eſtates. Now what an honour and comfort it would be to this Kingdome, and indeed to any other, if it could ſay, <hi>defecit de platei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <g ref="char:V">Ʋ</g>ſura doloſa,</hi> who cannot divine?</p>
+               <p n="2">2. By the Banke of charity many perſons would be preſerved from utter undoing, and not a few Families of good note de<g ref="char:EOLhyphen"/>fended from ruine,<note place="margin">
+                     <hi>Aemilius</hi> ibid.</note> both which elſe cannot but ſin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e under the over-preſsing burden of their inſtant neceſsity; This moved <hi>Auguſtus</hi> to that his former charitable act, much more ſhould it worke upon Chriſtians,<note place="margin">
+                     <hi>John.</hi> 13.35.</note> whoſe cognizance is charity.</p>
+               <p n="2">2. The Banke of Trade will be very fruitefull; For,</p>
+               <p n="1">1. Therein may provident and carefull Parents put their mo<g ref="char:EOLhyphen"/>nies to raiſe and be portions for their younger children; Honeſt
+<pb n="15" facs="tcp:113793:10"/> and truſty Gu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>di<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns hereby might rid themſelves of much care and h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ard in laying up their Pupills Stockes for their advantage and maintenance. The widow and other helpleſſe perſons might herein ſecure their money, eſtates, from the flattery of deceitfull borrowers.</p>
+               <p n="2">2. The Banke of Trade will at all times yeeld preſent aſ<g ref="char:EOLhyphen"/>ſiſtance to all ſuch as in their lawfull way of Trade and gaine ſhall have occaſionall defects in their imployments by want of ready money, ſo that hereby Trading would flow in a high ſtreame to the enriching of the Land. For,</p>
+               <p n="3">3. Monied men would be induced to bring forth ſo well for the Publicke Vſe of the Land, as for their private benefit, what now lies dead by them. Many who dare not now lend for feare of the evident hazard they ſee others daily incurre by lending, will doubtleſſe caſt away that feare, becauſe they ſhall ſee their monies ſo ſafe, yea ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er to them with their Vſe in the Banke then in their owne cheſts and Cloſets.</p>
+               <p n="4">4. The monies of this Land thus brought forth into imploy<g ref="char:EOLhyphen"/>ment there would be little or no need of <hi>Forraigners Stockes,</hi> which for want of the former are become at this day the very Market-money of this Kingdome.</p>
+               <p n="5">5. The Security of this Banke being infallible, the hazard in lending will be much abated, if not totally taken away, where<g ref="char:EOLhyphen"/>upon the price of money lent on Vſe may be juſtly ſomewhat leſſened, to the Improvement of Land ſo much deſired by Landed men.</p>
+               <p n="6">6. By this meanes that Hell-invented practiſe of Bankrupts would be altogether prevented, to the ſafety of many a credu<g ref="char:EOLhyphen"/>lous Creditor. For how come thoſe V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pers to creepe ſo deepe into the Bowells of mens eſtates, but by the covetous follie of lenders who ſtrive to put out their monies in a ſecret and hidden way that their eſtates may not be knowne, and ſo they may e<g ref="char:EOLhyphen"/>ſcape, or at leaſt be eaſed in their Scots and Taxes? Hence it is that though one of theſe ſerpentine borrowers have many Cre<g ref="char:EOLhyphen"/>ditors, yet they are altogether ignorant of one another, where<g ref="char:EOLhyphen"/>by they conceive him (who puts the beſt ſide outmoſt, if he hath any good) to have an eſtate farre better then he truly hath, of his own, and thereupon they doubt not of their monies untill they find them loſt without all doubt.</p>
+               <p n="7">
+                  <pb n="16" facs="tcp:113793:11"/>7. From the yearely increaſe of the one redounding to the Banke out of the Vſury of every hundred pound, will quickly grow ſo great a ſtocke for the Vſe of the Common-Wealth at all times, as it ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll never be brought to ſuch ſtraites againe for the raiſing of monies on ſudden and importune occaſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, as of late it was, and daily is. This will agree with this Politicall Aphoriſme of <hi>Danaeus; Beſides the ordinary treaſury which is ordained for the diſcharge of ordinary publicke expences, there muſt be reſerved in every Republicke, another by it ſelf, &amp; that with all ho<g ref="char:EOLhyphen"/>neſty, for the removeall and repaine of extraordinary loſſes and calami<g ref="char:EOLhyphen"/>ties.</hi> Thus had the <hi>Athenians</hi> a thouſand talents laid up for ex<g ref="char:EOLhyphen"/>traordinary occaſions.<note place="margin">Ex <hi>Thucyd.</hi> 8.</note> And this would quickly appeare to be unto this Kingdome,</p>
+               <p n="1">
+                  <note place="margin">Ornata erit civitas ſi opes publicas, a<g ref="char:EOLhyphen"/>gros vel ve<g ref="char:EOLhyphen"/>ctigalia habe<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Dan.</hi> ex <hi>A<g ref="char:EOLhyphen"/>riſtot. Pol. l.</hi> 1. <hi>cap.</hi> 10. Maximus in Rep. Nodus &amp; inopia rei pecuniariae. <hi>M. Cic. Epiſt.</hi> ad <hi>Brut.</hi> 2. <hi>Epiſt.</hi> 18.</note>1. An Ornam nt to beautifie it in the fight of all that have their eyes upon it. <hi>It is the Glory of a City or Kingdome to have Publicke Riches, Lands or Revenues.</hi>
+               </p>
+               <p n="2">2. A Munimen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Rampier of defence; For hereby ſhall this Land become formidable unto all other Nations, when they ſhall ſee, and certainely know that money, which is <hi>Ner<g ref="char:EOLhyphen"/>vus belli,</hi> is ſo plentifully provided for, againſt all ſuch occaſi<g ref="char:EOLhyphen"/>ons. The greateſt difficulty in a Common-Wealth being (then eſpecially) the want of money,</p>
+               <p n="3">3. An eaſement unto the Subject from all over great Taxes, which uſually preſſe men into diſcontent, which doth frequent<g ref="char:EOLhyphen"/>ly hinder many good and neceſſary deſignes for the Common-good in times of Peace, but eſpecially in warres, wherein delay uſually makes danger remedileſſe. Hereupon it is determined as a Rule in State affaires,<note place="margin">Bella ſuſti<g ref="char:EOLhyphen"/>nent magis opes ſuperflu<g ref="char:EOLhyphen"/>ae, quam vio<g ref="char:EOLhyphen"/>lentae collati ones. <hi>Dan. ex Thu. cid. lib.</hi> 3.</note> that Warres are maintained better by a ſuperfluous ſtore of Riches, then by conſtrained contribu<g ref="char:EOLhyphen"/>tions. Let our preſent experience of the premiſes be called to ſpeake hereto.</p>
+               <p n="8">8. Laſtly, By this Banke it will be eaſie for the State ſoone to finde out, who are the moſt able and ſufficient members thereof. What an advantage this may be unto the Common-Wealth Wealth when times require beſt ſervice, as our preſent doe, I leave to be conſidered by the Great Councell of the Land, whom it doth indeed concerne to know.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obiect. </seg>
+                  </label> What ſhall mens eſtates be made knowne?</p>
+               <pb n="17" facs="tcp:113793:11"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> That is neceſſarily required to the raiſing of theſe two Banks to their full height of Perfection.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obiect. </seg>
+                  </label> But this muſt not be; For if mens eſtates be known fully, they ſhall have wrong done them; Their Scots and Lots for Church and poore, Their Subſidies to the King, their Armes, and ſuch like publick burdens ſhall be increaſed, and heaped on their backs.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſ. </seg>
+                  </label> Alas! how doth covetouſneſſe and ſelfe-love blindfolde the eyes of ſharpe underſtanding! The truth is quite contrary; mens eſtates muſt be knowne for the avoiding of doing wrong in Scots, Taxes, Subſidies, Armes, and ſuch like burdens, as a<g ref="char:EOLhyphen"/>varice accounts them. And further thoſe greedy Hold-faſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who reckon the payment of a duty no leſſe then an heavy op<g ref="char:EOLhyphen"/>preſſion and wrong put on them, muſt know; <hi>There is no one thing whereby more wrong is continually offered and done, then is by men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> concealing of their eſtates from ſuch as ſhould know them.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>This, I expect their gaping mouthes will cry downe for a <hi>Paradox;</hi> and I am confident <hi>Mens Havingneſſe,</hi> which makes them ſo unwilling to reveale their eſtates will be the onely <hi>Re<g ref="char:EOLhyphen"/>mora</hi> to this good work: Wherefore that I may let them bloud in the right veine, and for their Saving-Health pricke them to the heart with Saint <hi>Peters</hi> Launce (a plaine diſcovery of their hainous crimes herein) I muſt intreate (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that li<g ref="char:EOLhyphen"/>berty of ſpeech in telling them the naked truth concerning their eternall Souls in this particular, which they willingly ſuffer both the Phyſician and Lawyer to take in matters which con<g ref="char:EOLhyphen"/>cerne onely their mortall bodies and temporall eſtates.</p>
+               <p>Every Chriſtian hath a threefold Center he muſt move unto; His God, Neighbour, and himſelfe. Accordingly, there are three motions he muſt move in: Piety, Equity and Sobriety. In Sobriety towards himſelfe, Equity, towards his Neighbours, and in Piety towards his God. All which are directly oppoſite to, and cannot ſtand with the willfull concealement of our Wealth; Wherefore he that ſhall ſo doe declareth to the world that he croſſeth the Rule of grace, in living not ſoberly,<note place="margin">
+                     <hi>Tit.</hi> 2.12. 1 <hi>Cor.</hi> 4.7.</note> nor righteouſly, nor godly in this preſent world. For</p>
+               <p n="1">1. Our duty to God in regard of thoſe eſtates he hath given us (for what have we, which we have not received? and whence receive we our eſtates, but from his bleſſing which maketh
+<pb n="18" facs="tcp:113793:12"/> rich?<note place="margin">
+                     <hi>prov.</hi> 10.22.</note>) is twofold. 1. Thankfulneſſe. 2. Faithfulneſſe.</p>
+               <p n="1">1. Thankfuln<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe to God, River-like, returnes unto the O<g ref="char:EOLhyphen"/>cean of his glory, thoſe ſtreames of bleſſings, which flowed from the Fountaine of his goodneſſe. It is a free rendring to him the Glory of his goodneſſe in beſtowing our eſtates upon us. And this Returne is not to be done onely with the heart, and privately in our cloſets,<note place="margin">
+                     <hi>Heb.</hi> 13.15. <hi>Hoſ.</hi> 14.2. <hi>Pſal.</hi> 107.22. <hi>Pſal.</hi> 40.10.</note> but the tongue muſt eccho it in a more publicke way. Hence it is called <hi>the fruite and calves of the lipps.</hi> King <hi>Davids</hi> rule herein is, <hi>Let them offer the ſacrifices of praiſe, and declare his workes with rejoycing.</hi> His practiſe was ac<g ref="char:EOLhyphen"/>cording; <hi>I have not concealed thy mercy and thy truth from the great Congregation.</hi> The Lord would have his mercy knowne both for the Glory of his Name, and to draw on other men to a faithfull dependance on him,<note place="margin">
+                     <hi>Pſal.</hi> 78.4, 5, 6, 7, 8.</note> which the Pſalmiſt elſewhere doth at large expreſſe. He therefore who hideth any mercy of God to him from the knowledge of his brethren, is no leſſe then an unthankefull perſon; yea and when he is legally called to ma<g ref="char:EOLhyphen"/>nifeſt Gods goodneſſe to him, or when he would ſeem to doe it willingly and of his owne accord, by an opening of his eſtate to the eyes of all the world, to conceale any great part thereof, his ingratitude thereby, becomes great-bellied, for Twins are hatched in its ingendring wombe.</p>
+               <p n="1">1. The firſt-borne is a Lye. For he that in this way conceales his eſtate, or any part thereof, belies God, bearing the world in hand that the Lord hath not been ſo bountifull to him as in<g ref="char:EOLhyphen"/>deed he hath. This diſſembling and double kind of dealing, was the ſinne of <hi>Ananias;</hi> For the Apoſtle ſaid unto him, <hi>Why hath Satan filled thine heart to bely the Holy Ghoſt,</hi>
+                  <note place="margin">
+                     <hi>Acts</hi> 5.3.</note> 
+                  <hi>and to keepe away part of the price of thy poſſeſſion?</hi> This is a breach both of the third and ninth Commandement.</p>
+               <p n="2">
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>2. Its ſecond brat is as deformed, it is Injuſtice it ſelfe. Vn<g ref="char:EOLhyphen"/>thankefulneſſe doth open wrong. It detains from benefactors their due; It keeps backe from our Lord that Rent we owe him for theſe our Copie-holds. Thus it offends the eight precept. One would thinke this enough to convince them of ſinne, who wilfully conceale their eſtates, when they ought to bring them forth; But this hath not diſcovered the depth of its ſinfulneſſe as it directly ſtrikes at God; For</p>
+               <p n="2">
+                  <pb n="19" facs="tcp:113793:12"/>2 There is another duty owing to him for our eſtates, which Divines call Faithfullneſſe: which brancheth it ſelfe into a Truſt on him, a Truth to him.</p>
+               <p n="1">1. The great Lord of all is bountifull in giving unto us,<note place="margin">
+                     <hi>Iſai.</hi> 51.3.</note> be<g ref="char:EOLhyphen"/>cauſe he would have us confide in him, and waite on him, But the cloſe-keeping of his liberality to us in our eſtates, declares us diſtruſtfull of him, that we dare not reſt our ſelves on his Providence in committing our wayes to him, but we leane more upon our owne care and cloſeneſſe, as if an open thank<g ref="char:EOLhyphen"/>fullneſſe to him, would prove dangerous and loſſefull to us.</p>
+               <p n="2">2. And if we doe not truſt God, we can never be true to him. Experience tells us, that ſuch as ſuſpect, and will not truſt others; are ſeldome or never true themſelves: Our faith<g ref="char:EOLhyphen"/>fullneſſe in doing for God, ſprings from our faith in him, as ready and able to doe for us. Wherefore ſince the vailing of our wealth is by the foule hands of Infidelity, it cannot but pro<g ref="char:EOLhyphen"/>duce a moſt treacherous perfidiouſneſſe in their uſe he gave them for. We are but his Expenditours;<note place="margin">1 <hi>Cor.</hi> 4.7.</note> and Stewards ought to be faithfull in their layings out, but faithfull we cannot be if we hide the Talent our Maſter gives us to trade with in a Napkin of Leaſing, not imploying it ſo, that he may receive his owne with Vſury. He that ſhall thus doe, is brother to him, who inſtead of an hundred, wrote downe fifty.<note place="margin">
+                     <hi>Luke</hi> 16.6.8.</note> What account will ſuch a man give, at the Reckoning day with the world? Will not Chriſt ſay then, <hi>Caſt this unprofitable ſervant into utter darkeneſſe, where is weeping and gnaſhing of teeth?</hi>
+                  <note place="margin">
+                     <hi>Matth.</hi> 25.30. <hi>Acts</hi> 5.5.</note> 
+                  <hi>Ana<g ref="char:EOLhyphen"/>nias</hi> was ſoone called to an account, and puniſhed for his fal<g ref="char:EOLhyphen"/>ſhood in this way. Me thinks if a man did ſeriouſly conſider with himſelfe, how often, and how much he hath wronged God by his concealing of his eſtate, in belying him to his face, and ſtealing from him the Diamond in his Crowne, His Glory; in being diſtruſtfull of him, as if he were not truſt-worthy, and faithleſſe to him, as if he were a kinde of Infidell, this very fight of the evill in ſo doing, ſhould ſcare him from doing ſo again.</p>
+               <p>And yet you ſee not all the miſchiefe that is packed up in this kind of men dealings. For as it ſins againſt God, ſo,</p>
+               <p n="2">2. Secondly, It is againſt our Neighbour: The duty we owe him requires an open declaration of our Subſtance. His due from us is Righteouſneſſe; that is, <hi>(Jus diſtributivum)</hi> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtributive
+<pb n="20" facs="tcp:113793:13"/> Juſtice, which <hi>(Suum cuique dat)</hi> gives every man that which is his. But he that wraps up his eſtate in ſecrecie, keeps from men what he in conſcience (if he have any) is obliged to give them; yea, and this defrauding of them is his meere intention in that his falſe dealing: That I may rip up the very Entrailes of this iniquity, it is expedient to ſhew the multitudes that ſuffer hereby; They are ranged into Superiours, Equalls, and Infe<g ref="char:EOLhyphen"/>riours.</p>
+               <p n="1">1. Our Superiours are either Civill, or Eccleſiaſtick.</p>
+               <p n="1">1. Our Civill Superiours are the Head and Body of the Common-Wealth.</p>
+               <p>Firſt, The Head, the Kings Majeſty with his deputed and ſubordinate Magiſtrates, are greatly injured by mens concea<g ref="char:EOLhyphen"/>ling of their eſtates. Maintenance we owe the Publick Magi<g ref="char:EOLhyphen"/>ſtrate, as a Part of that Honour which the fifth Commandement requires of us as his due.<note place="margin">
+                     <hi>Rom.</hi> 13.7.</note> Hence the Apoſtle, <hi>Tribute to whom you owe Tribute, Cuſtome to whom you owe Cuſtome, Feare to whom Feare, Honour to whom Honour.</hi> But the Queſtion will be, What Portion of Tribute each man muſt pay the Magiſtrate as his due? The anſwer is, That each mans tribute to the Publicke Magiſtrate muſt be proportioned onely by his eſtate, ſo that as his eſtate is greater or leſſer, his Taxe riſeth and falleth. Thus it hath been anciently, (as I ſhall ſhew hereafter) and ought to be ſtill; wherefore he that minceth his eſtate, doth diminiſh the Magiſtrates Right, and in ſo doing commits direct Theevery.</p>
+               <p>Secondly, The Body of the State in generall, ſuffers much with its Head herein. For it is not repleniſhed wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h that <hi>Strength and Store of Ammunition, which it ought and would be,</hi> if all m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns eſtates were knowne. The wiſedome of the State doth order every mans burden in all Publicke Taxes to be ac<g ref="char:EOLhyphen"/>cording to his ſtrength; Hence ſome men to be favoured in their Load feigne themſelves much weaker then they are. A traiterous generation, and enemies to the State.</p>
+               <p>Secondly, Our Eccleſiaſticall Superiours are alſo double, The Church, and Church-men.</p>
+               <p n="1">
+                  <note place="margin">
+                     <hi>Matth.</hi> 12.4.21.13. <hi>Iſai</hi> 37.1.</note>1. The Church, that is called Gods Houſe, the Building wherein his Publicke Worſhip is given him, receives much da<g ref="char:EOLhyphen"/>mage by mens concealing of their eſtates: For hereby it comes
+<pb n="21" facs="tcp:113793:13"/> to paſſe, that it is not ſo well repaired and maintained as it ought. Happily this argument may ſeeme ridiculous to thoſe fanatique perſons who have throwne Gods Houſe out of dores. But it will not be ſo much ſlighted by them who have their wits about them, and their hearts at their right hands; Theſe are the men I ſpeake to, for as they hate ſuperſtition, ſo they love decency,<note place="margin">
+                     <hi>Hag.</hi> 1.4.</note> and count it a <hi>Piaculum</hi> to live in ſeiled houſes of their owne, whileſt the Lords houſe lies waſt.</p>
+               <p n="2">2. The Church-man, the Miniſter, who breakes to his flock the Bread of Eternall life, is cozened of his due maintenance. True, the Lawes give him Tithes, the tenth of the Increaſe: But no Pariſh can endure, by their good wills, to pay it truly, and duly, in kind. Wherefore the Miniſter for quietneſſe ſake, uſually compounds with them: and the Compoſition moſt commonly is by their rents; which to beguile him in, it is too common for Land-lords and Tenants to combine to curtaile, yea and by ſwearing, or ſolemne proteſting to avouch the Prices of their Houſes and Lands, that is, The ſummes of their Rents leſſe then they are: or to uſe ſome other indirect way of under-hand dealing herein; as if it were no ſinne to deceive a Miniſter. Juſtly may God plague them with ſuch, as will pro<g ref="char:EOLhyphen"/>portion their worke according to their wages: but he is mercifull.</p>
+               <p>Thus are our Superiours wronged.</p>
+               <p n="2">2. Our Equalls are no leſſe damnified by this deceitfull co<g ref="char:EOLhyphen"/>vering of mens wealth from others ſight: For hereby he that is yoked with us in a Scot is forced to beare more of it, then he ſhould; and ſo we croſſe Saint <hi>Pauls</hi> meaning,<note place="margin">
+                     <hi>Gal.</hi> 6.2.</note> though we ſeem to fulfill hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> charge in forcing our burdens on one anothers backe. A Scot is then equally made when every man is taxed according to his eſtate: If any be caſed by their falſhood in be<g ref="char:EOLhyphen"/>lying their eſtates, others muſt pinch for it. <hi>Mark Tully</hi> in his charge againſt <hi>Verres</hi> ſaith. The Taxe was made after ſuch a manner when you were Praetor as thereby the Common-weale of no City could be governed; For the eſtates of rich men were extenuated, and meane mens extended, ſo that in requi<g ref="char:EOLhyphen"/>ring Tribute ſuch a burden was laid on the Common-people, that if the men ſhould be ſilent, yet even the matter it ſelfe
+<pb n="22" facs="tcp:113793:14"/> would abandon ſuch a Taxe. And to ſay the truth, even in theſe our times it is apparent like the Sunne at Noone, that the middle ſort of Perſons, whoſe eſtates are of no greater latitude then the <hi>Zenith</hi> of every mans knowledge, doe beare away the greateſt part of publicke burdens, and ſo are moſt heavily and unjuſtly oppreſſed; and the reaſon is, becauſe of mens con<g ref="char:EOLhyphen"/>cealing their eſtates. Hence comes that heart-burning and envie amongſt Neighbours, which ſeemes to have ſet them on fire from hell: ſuch is their malice at one another, in vieing at each others eſtates, when they come together at making of Scots and Taxes, and the reviling ſpeeches with <hi>
+                     <g ref="char:V">Ʋ</g>nchriſtian Behaviour</hi> that paſſeth between them. This fire would be put out, if men would out with their eſtates themſelves.</p>
+               <p n="3">3. Laſtly, Our Inferiours are ſufferers alſo hereby; Thoſe I meane, who are not ſcotted or taxed, ſuch as have no E<g ref="char:EOLhyphen"/>ſtates to maintaine themſelves,<note place="margin">
+                     <hi>Deut.</hi> 15.7, 8, 9, 10, 11. 1 <hi>Cor.</hi> 16.1, 2.</note> much leſſe others. Their re<g ref="char:EOLhyphen"/>liefe is a duty ſtrictly enjoyned by our God. The meaſure of that reliefe they muſt have from us, as it reſpects us, muſt be according to our State-ability: this God and charity requires. But covetous ſelfe-love hinders our obedience: wherefore the civill Magiſtrate (whoſe lawes moſt men regard more then Gods) was neceſſitated (for the fulfilling of the Lords injun<g ref="char:EOLhyphen"/>ction hereof) to bring in Taxes and Scots for the ſupport of the poore, thereby to compell men to doe that which their very Religion cannot obtaine of them. Theſe Scots and Taxes, Ju<g ref="char:EOLhyphen"/>ſtice requires ſhould be equally laid upon every man, that is, they ſhould be proportioned to every mans eſtate: which can<g ref="char:EOLhyphen"/>not be becauſe men doe ſtrive what they can to ſuppreſſe the true Notion of their Abilities; and not paying according to the true worth of their eſtate, it neceſſary followes that the Poore are wronged by them, in not having their due from them. <hi>So<g ref="char:EOLhyphen"/>lomon</hi> adviſeth ſuch <hi>Nabals</hi> to the contrary, ſaying, <hi>With-hold not the Good from the Owners thereof,</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 3.27.</note> 
+                  <hi>though there be power in thy hand to doe it.</hi> And thus mens undervaluing of their eſtates ap<g ref="char:EOLhyphen"/>peares to be unrighteouſneſſe in a high degree; And yet have you ſeene but two parts of its wickedneſſe: The third and laſt followes. For</p>
+               <p n="3">3. Finally, ſuch kinde of cloſe dealing of worldly ſelfe-wiſedome
+<pb n="23" facs="tcp:113793:14"/> cannot ſtand with that ſobriety we ſhould have in and towards our ſelves.<note place="margin">1 <hi>Theſſ.</hi> 5.6, 7, 8. <hi>Rom.</hi> 12.3. <hi>Luke</hi> 21.34.</note> We ſhould live ſoberly in this preſent world; Now chriſtian ſobriety is a virtue moderating not one<g ref="char:EOLhyphen"/>ly our deſires of meate and drinke, but alſo all eſteeme of our ſelves, and our cares for theſe outward things. It reſtraines the Luſt of the eye, as well as the Luſt of the fleſh and the Pride of life; But I appeale to every conſcience of theſe greedy <hi>Hun<g ref="char:EOLhyphen"/>garians</hi> (if they have any) whether their wilfull and obſtina<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e denying of their wealth doe not come from their covetous af<g ref="char:EOLhyphen"/>fection thereto, and inordinate love thereof? I dare avow it doth, and that in ſo doing their ſoules appeare to be drunken, and overcharged with the cares of this life.<note place="margin">1 <hi>Tim.</hi> 6.9, 10.</note> Hence it is that they erre from the Faith, and fall into ſuch Temptations and ſnares, as will pierce them through with ſorrowes, which are to be prevented onely by <hi>a Godly ſorrow never to be repented of:</hi> and to bring them thereunto, Let them in time conſider what they have done, in a ſerious review of the ſad premiſſes, which will convince them that in this one act they have committed many ſins; the leaſt of which they can never excuſe ſo well, but it will overthrow them at the Barre of Gods Judiciall Tribunall. In the meane time, they muſt admit of this for truth, That they love not themſelves, nor their Neighbour, no not their God, and therefore are not the ſame, they would ſeeme to be, True Chriſtians.</p>
+            </div>
+            <div type="part">
+               <p>But to make our flight ſomewhat lower, Civill Policy alſo doth require men to be know their eſtates; Chriſtianity is our upper ſphere, wherein whileſt we move,<note place="margin">
+                     <hi>Phil.</hi> 3.20. <hi>Gen.</hi> 5.22.</note> we have our converſa<g ref="char:EOLhyphen"/>tion in heaven, and walke with God. The lower Sphere ſub<g ref="char:EOLhyphen"/>ordinate thereto, is civill Policy, wherein whileſt we rightly move, we live with Gods Vicegerents, as good Subjects, and ſound members of the Body Politick, which cannot ſubſiſt without the influence thereof. Wherefore as I have endeavou<g ref="char:EOLhyphen"/>red to make men ſhew themſelves good Chriſtians, ſo now my aime is to perſwade them to be good Common-wealths men in this particular: And ſo to doe, I will briefly make i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good to them, that, <hi>The Publication of mens eſtates hath been practiſed, commanded, and commended by ſuch, who have diligently ſought the Proſperity of thoſe Cities and Kingdomes they lived in.</hi>
+               </p>
+               <p n="1">
+                  <pb n="24" facs="tcp:113793:15"/>1. For the Practiſe of it: The Cuſtome and Practiſe of the greateſt Empire of the <hi>Romans</hi> may ſuffice to prove the revealing of mens eſtates abſolutely neceſſary to make a Kingdome be<g ref="char:EOLhyphen"/>come great and flouriſhing; For the very firſt ſteppe unto the ſuperlative degree <hi>Rome</hi> climbed up unto, was no other then the exact view and perfect valuation of the eſtate of every <hi>Ro<g ref="char:EOLhyphen"/>man</hi> from the higheſt to the loweſt: as is cleare by theſe enſu<g ref="char:EOLhyphen"/>ing Authorities.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Decad.</hi> 1. <hi>lib.</hi> 1.</note>
+                  <hi>T. Livius</hi> ſaith; After <hi>Servius Tullius</hi> (the ſixt King of the <hi>Romans</hi>) had vanquiſhed the <hi>Hetrurians,</hi> he returned to <hi>Rome,</hi> and then went about an exceeding great worke, or meanes of Peace,<note place="margin">Vide <hi>Penart.</hi> in 2 <hi>Sam:</hi> 24.</note> That as <hi>Numa</hi> was Author of the excellent Lawes, ſo after ages did report <hi>Servius</hi> the Founder of all diſtinction in the City and Orders, wherein appeared any degree of dignity or fortune. For he ordained the Valuation of every mans Goods, A thing moſt profitable to an Empire that ſhould be<g ref="char:EOLhyphen"/>come ſo great: Thereby all Officers of Warre and Peace, came not to be done man by man, as before, but according to the qua<g ref="char:EOLhyphen"/>lity (or rather the quantity) of their eſtates. Then did he di<g ref="char:EOLhyphen"/>ſtribute them into Companies and Bands; And this Order comely both in peace and warre, he did preſcribe according to their valuation. Of thoſe that had the greateſt eſtates he made eighty Centuries, forty of the elder, and forty of the younger. To the <hi>Seniors</hi> (of whom the Senate hath its name) he commit<g ref="char:EOLhyphen"/>ted the Cuſtody of the City, &amp;c.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Rom.</hi> Antiq. <hi>lib.</hi> 4.</note>
+                  <hi>Dyonyſius Halicarn:</hi> relates that, beſides the many other things <hi>Servius Tullius</hi> did conſtitute, he commanded all the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> to give in their Names, and to prize their Goods by the value of mony, and to adde a lawfull Oath, whereby they ſhould ſweare that all their Goods were truely valued to their full worth, and withall to ſet downe the Names of their Parents, their age, their wives and childrens names, the Name of their City, or Village of the Countrey, where they dwelt being alſo added. And he did inflict this puniſhment on him, who was not valued or prized: He ſhould be deſpoiled of all his goods, whipped, and ſold for a ſlave. This Law endured a long time amongſt the <hi>Romans,</hi> but when the Valuation was finiſhed, and the Bookes wherein the Names of all Perſons were written,
+<pb n="25" facs="tcp:113793:15"/> being received, whereby both their number, and the greatneſſe of their Fortunes was knowne, he did introduce the wiſeſt Or<g ref="char:EOLhyphen"/>dinance that ever was, and the moſt profitable to the <hi>Romane</hi> State, as experience hath taught. This was the good Order he inſtituted, he tooke out of the whole number one part whoſe eſtates were greateſt, &amp;c.</p>
+               <p>This Act was afterwards imitated by <hi>T. Largius</hi> the Firſt Dictator:<note place="margin">Dion. Halicarn. lib. <hi>5.</hi>
+                  </note> for according to <hi>Servius Tullius</hi> his moſt excellent Ordinance, he commanded all the <hi>Romans</hi> according to their Tribes to confeſſe openly the value of their eſtates, adding there<g ref="char:EOLhyphen"/>to the Names of their wives and children, with their owne and their childrens ages; And in a little time all were valued, be<g ref="char:EOLhyphen"/>cauſe of the greatneſſe of the Puniſhment: for they who obey<g ref="char:EOLhyphen"/>ed not were to looſe their Goods, and be turned out of the City, &amp;c.</p>
+               <p>Againe when <hi>M. Geganius Macerinus,</hi>
+                  <note place="margin">Idem <hi>lib.</hi> 11. ad ſine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and <hi>T. Quintius Ca<g ref="char:EOLhyphen"/>pitolinus</hi> were Conſuls, they informed the Senate, that whereas many things had been neglected by reaſon of the continuall ex<g ref="char:EOLhyphen"/>peditions of the Conſuls, amongſt them, <hi>That Ordinance which of all other was moſt neceſſary,</hi> viz. <hi>The Valuation of Eſtates,</hi> whereby was knowne both the number of them, who were of a military age, and the greatneſſe of their fortunes, by the quantity where<g ref="char:EOLhyphen"/>of, every one ſhould contribute to the neceſſity of Warlike occaſions, there having been no Valuation in 17 yeares, &amp;c.</p>
+               <p>Moreover we read in ſacred Writ,<note place="margin">
+                     <hi>Luke</hi> 2.1, 2.</note> that there came a Com<g ref="char:EOLhyphen"/>mandement from <hi>Caeſar Auguſtus</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>
+                     <g ref="char:V">Ʋ</g>t deſcriberatur totus Orbis;</hi> That the Habitable world (under the Command of the <hi>Romane</hi> Emperour) ſhould be deſcribed as <hi>Beza</hi> renders it; <hi>Eraſmus, <g ref="char:V">Ʋ</g>t cenſeretur,</hi> and ſo <hi>Vatablus,</hi> whom our <hi>Engliſh</hi> Tranſlators ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to follow, by ſaying, <hi>That all the world ſhould be taxed.</hi>
+               </p>
+               <p>If any object, The Emperour ſinned in this his Command, as <hi>David</hi> did in numbring of his People, alledging the Autho<g ref="char:EOLhyphen"/>rity of <hi>Stella</hi> who indeed aggravates this Act of the <hi>Romane,</hi>
+                  <note place="margin">In locum.</note> as a greater ſinne, then that of the <hi>Iſraelite.</hi>
+               </p>
+               <p>The truth is, Some learned men doe doubt whether this De<g ref="char:EOLhyphen"/>ſcription of <hi>Auguſtus</hi> were made for to impoſe Tribute, or onely to know the number of the People ſubject to the <hi>Romane</hi>
+                  <pb n="26" facs="tcp:113793:16"/> Empire in thoſe moſt flouriſhing times,<note place="margin">Dubitant non-nulli eruditi an illa deſcrip<g ref="char:EOLhyphen"/>tio ſit facta ad imponenda tributa, quae eſt recepta ſententia; an vero ad cog<g ref="char:EOLhyphen"/>noſcendum florentiſſimis illis tempori<g ref="char:EOLhyphen"/>bus numerum ſubditorum Imperii Ro<g ref="char:EOLhyphen"/>mani, ſicut <hi>David</hi> popu<g ref="char:EOLhyphen"/>lum ſuum nu<g ref="char:EOLhyphen"/>mer avit. 2 <hi>Sam.</hi> 24. <hi>Dan. Toſſanus</hi> in locum.</note> as <hi>David</hi> did cauſe his People to be numbred; yet the former being the moſt received opinion, and grounded on the Ancient Cuſtome, and com<g ref="char:EOLhyphen"/>mon practiſe of the City of <hi>Rome,</hi> it may be ſaid with <hi>Albertus M:</hi> Though <hi>David</hi> ſinned in numbring the People, becauſe he did it in pride; yet <hi>Auguſtus</hi> off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded not, becauſe he de<g ref="char:EOLhyphen"/>ſcribed the world out of a good intent toward his people. His purpoſe bei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g thereby to know how much he could be inabled toward the Government of the Common-wealth, <hi>(Per Conſi<g ref="char:EOLhyphen"/>capitem)</hi> by Pole-money: which the <hi>Pontifician</hi> writers reckon to be the <hi>Romane</hi> Penny for every head. But to proceed:</p>
+               <p>
+                  <note n="a" place="margin">In locum.</note>We have another hint of this practiſe of the <hi>Romans</hi> in <hi>Act.</hi> 5.37. where <hi>Pauls</hi> learned Doctor ſaith, <hi>Judas of Galileo roſe up in the dayes of the Taxing, and drew away much people after him.</hi> In which words we onely take notice now of the occaſion which that ſeditious perſon made uſe of, to ſtirre up his Complices unto a mutunie; and<note n="b" place="margin">Vid. <hi>Joan. Brentium.</hi> in locum.</note> that was the Deſcription or Taxing of the <hi>Jewiſh</hi> Nation, which did infringe their Liberty and Freedome, and brought them under the yoke of the <hi>Romane</hi> Empire. To evidence this, may ſerve the Obſervation of <hi>Chemni<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us</hi> on the like paſſage of ſlavery put on them by an <hi>Egyptian</hi> King: For thus ſaith he, In the third Book of the <hi>Maccabees,</hi> theſe words <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, are ſometimes repeated concerning <hi>Ptole<g ref="char:EOLhyphen"/>maeus Philopater,</hi> who commanded that all the <hi>Jewes</hi> ſhould be brought into a ſervile condition by making a deſcription of theme and the ſtory addes that many of them did boldly endea<g ref="char:EOLhyphen"/>vour to free themſelves from giving in their Names. In this place is mentioned <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which the <hi>Jewes</hi> did oppoſe with the hazard of their lives and eſtates; Becauſe the intent thereof was, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Jewes</hi> might not be a peculiar Na<g ref="char:EOLhyphen"/>tion, and keepe their owne Lawes and Government, but ſhould be reckoned by this publicke Token, amongſt the Subjects of the <hi>Egyptian</hi> Kingdome.</p>
+               <p>
+                  <hi>Chemnitius</hi> a little after thoſe words ſaith moreover, it is worth our notice, that after <hi>Archelaus,</hi> that is, almoſt in that very yeare,<note place="margin">
+                     <hi>Harmon</hi> in locum.</note> when Chriſt being twelve yeares old, did teach firſt in the Temple, another deſcription of the <hi>Jewes</hi> was made, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Joſephus</hi> reports; And that under <hi>Veſpaſian,</hi> a little before
+<pb n="27" facs="tcp:113793:16"/> their deſtruction a third deſcription was made of them.<note place="margin">
+                     <hi>Ioſeph.</hi> de Bel<g ref="char:EOLhyphen"/>lo Iud. <hi>l.</hi> 7. <hi>c.</hi> 26.</note>
+               </p>
+               <p>And about foure yeares after, that <hi>Jeruſalem</hi> was utterly o<g ref="char:EOLhyphen"/>verthrowne, <hi>Veſpaſian</hi> and his Sonne <hi>Titus</hi> were choſen Cen<g ref="char:EOLhyphen"/>ſors; Of which <hi>Plinie</hi> makes mention,<note place="margin">Accedunt ex<g ref="char:EOLhyphen"/>empla recen<g ref="char:EOLhyphen"/>tiſſimi Cenſus quem intra quadriennium Imperatores <hi>Veſpaſiani,</hi> Pa<g ref="char:EOLhyphen"/>ter filiuſque Cenſores ege<g ref="char:EOLhyphen"/>runt, &amp;c. Nat. hiſt. l. 7. c. 49.</note> to certifie us of the ex<g ref="char:EOLhyphen"/>traordinary length of life and number of yeares, many perſons were found to have enjoyed.</p>
+               <p>As for after times, It may ſuffice to adde the Teſtimony of that Profound Scholar, <hi>Iſaac Caſaubon,</hi>
+                  <note n="a" place="margin">Exercit. ad Appar. <hi>Baron. Num.</hi> 93.</note> who affirmes, The Cu<g ref="char:EOLhyphen"/>ſtome of Deſcribing or Taxing, was alwayes kept, not onely in the Government of Old <hi>Rome,</hi> but alſo in that of the New, being now and then acted as their affaires required. For wit<g ref="char:EOLhyphen"/>neſſe hereof, he brings <hi>Gregory Nazianzens</hi> ſpeech to <hi>He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enius,</hi> in his ninth Oration to <hi>Julian,</hi> who with <hi>Hellenius</hi> was ſent in<g ref="char:EOLhyphen"/>to <hi>Capadocia</hi> to equalize, and levell their Taxes and Tributes impoſed on the People of that Countre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>But to leave forraigne examples, it ſeemes expedient to looke home, and ſee whether this practiſe hath ever been i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this Kingdome. To put this out of doubt, I ſhall need to bring no more inſtances, then that of <hi>William</hi> the Conquerour, who in his ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling of this Kingdome to Him, and His, ſeemes to have ſhewne as much wiſedome, as he had done valour in winning it by his Sword. For Maſter <hi>Speed</hi> informes us,<note place="margin">Chron. lib. <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 2.</hi> Sect. <hi>40.</hi>
+                  </note> that the ſaid famous Conquerour, cauſed an exact Survey to be taken of the whole Kingdome, yea and of every particular Part and Commo<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty thereof: ſo that there was not a Hide of Land, Lake, water or waſt, but he knew the Valuation the Owners and Poſſeſſors, together with the Rents and profits thereof, as alſo of all Ci<g ref="char:EOLhyphen"/>ties, Townes, Villages, H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mlets, Monaſteries, and Religious Houſes; cauſing alſo all the People in <hi>England</hi> to be numbred, their names to be taken, with notice, what every one might diſpend by the yeare. Their ſubſtance, their money, and bond<g ref="char:EOLhyphen"/>men recorded. How many yokes of Oxen and Plough lands were in the Realme, and what ſervices they owed, who held of him in Fee. All which was certified upon the O<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bes of Commiſſioners. This done, he exacted fixe ſhillings to be paid him for every Hide of Land, which a mounted to an huge ſumme of money. This Booke thus made of every ſeverall Survey was commonly called the <hi>Roll of Wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>heſter,</hi> as being there at firſt
+<pb n="28" facs="tcp:113793:17"/> kept; But for the <hi>Generality</hi> and inevitable Cenſure thereof is by Authors named <hi>Liber Judiciarius;</hi> by the <hi>Engliſh,</hi> it is cal<g ref="char:EOLhyphen"/>led <hi>Doomeſday-Booke,</hi> kept to this day in the Kings Exchequer at <hi>Weſtminſter.</hi>
+               </p>
+               <p>By theſe premiſſes appeares (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) That this valuing of mens eſtates hath been a common practiſe in Kingdomes.</p>
+               <p>Before we leave it, I ſhall briefely adde the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> thereof.</p>
+               <p n="1">1. The (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) manner of doing it among the <hi>Romans</hi> will clearely ſhew it ſelfe, in a diſcovery of
+<list>
+                     <item>1. The quality of the perſons imployed.</item>
+                     <item>2. Their office and work therein.</item>
+                     <item>3. The Ceremony uſed therefore.</item>
+                     <item>4. The Time, when and how often it was practiſed.</item>
+                  </list>
+               </p>
+               <p n="1">1. The Qualitity of the Perſons imployed about this worke. The <hi>Romans</hi> alwayes choſe two men of the beſt Ranke and Re<g ref="char:EOLhyphen"/>pute amongſt them to doe it,<note place="margin">Demum eò dignitatis ve<g ref="char:EOLhyphen"/>nit Cenſurae ſtatus ut niſi clari illuſtreſ<g ref="char:EOLhyphen"/>que poſt tri<g ref="char:EOLhyphen"/>umphos &amp; conſulatus il<g ref="char:EOLhyphen"/>lam expere<g ref="char:EOLhyphen"/>rent. <hi>Alex. ab Alex. Gen. Dir. l</hi> 3. <hi>c.</hi> 13. In vitâ <hi>M Ca<g ref="char:EOLhyphen"/>tonis</hi> De legibus lib. 6. De legibus lib. 3. ad initium. Ubi ſupra. Feneſtella de Magiſt. <hi>Rom. cap.</hi> 17.</note> and called them the <hi>Cenſors.</hi> None but famous and illuſtrious perſons were wont to obſeeke that Office of Cenſorſhip, and that, after their Conſulſhips and Tri<g ref="char:EOLhyphen"/>umphs, as if it were one ſtep of honour above them. It was in<g ref="char:EOLhyphen"/>deed the chiefeſt office among the <hi>Romans,</hi> and therefore fit only for the beſt men. <hi>Plutarch</hi> tells us, <hi>M. Cato</hi> ten yeares after his Conſulſhip ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to be Cenſor, which was in <hi>Rome</hi> the greateſt office of dignity that any Citizen of <hi>Rome</hi> could attaine unto, and as a man may ſay, the Place of all Glory and Honour of their Common-wealth. <hi>Plato</hi> therefore did appoint that his Thirty ſeven, the chiefeſt men and of higheſt ranke in his Common-wealth, ſhould have the Cuſtody of the Lawes, and the keeping of the Talles, wherein were regiſtred the names and ſummes which every man ſet downe of his eſtate.</p>
+               <p n="2">2. The Office of the two Cenſors (which we finde Empe<g ref="char:EOLhyphen"/>rours themſelves to accept of) did in time grow to a very great height; for thereto was added Cenſures of manners, and many other particulars do at large appeare by the <hi>Romane</hi> Law con<g ref="char:EOLhyphen"/>cerning it, recited by <hi>M. Cicero;</hi> and alſo by the report of <hi>Plu<g ref="char:EOLhyphen"/>tarch, Feneſtella, Alexander ab Alexandro</hi> and other claſſicall Au<g ref="char:EOLhyphen"/>thors. But at the firſt it was farre leſſe, and branched it ſelfe onely into two parts according to the two moſt uſuall ſignifi<g ref="char:EOLhyphen"/>cations of the word <hi>Cenſus.</hi> For</p>
+               <p n="1">1. The word <hi>Cenſus</hi> ſignifies <hi>(Quicquid fortunarum quis ha<g ref="char:EOLhyphen"/>bet)</hi>
+                  <pb n="29" facs="tcp:113793:17"/> whatſoever a man hath, his whole eſtate, and all that he is worth.<note place="margin">Sive apud <hi>Rom.</hi> ſcript<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>res Cenſus in<g ref="char:EOLhyphen"/>terdum ſigni<g ref="char:EOLhyphen"/>cat ipſa bona; ut Homo te<g ref="char:EOLhyphen"/>nuis Cenſus, &amp; apud Saty<g ref="char:EOLhyphen"/>ricum, Miſera eſt magni cu<g ref="char:EOLhyphen"/>ſtodia cenſus. <hi>Caſaub.</hi> exer<g ref="char:EOLhyphen"/>cit. 16. <hi>Baronit Annal. Num.</hi> 10. Vide <hi>Annal. Beza</hi> in <hi>Matth.</hi> 17.24. &amp; 22.17. &amp; <hi>Mark</hi> 12.14. <hi>Har<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> Ubi ſu<g ref="char:EOLhyphen"/>pra. Poſtea &amp;c. Exercit. 16. Ubi ſupra. <hi>Beza</hi> in <hi>Annot.</hi> in <hi>Matth.</hi> 22.17. <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>llerius</hi> in Praxi Cenſu<g ref="char:EOLhyphen"/>ali 2 <hi>Varro<g ref="char:EOLhyphen"/>nis. lib.</hi> 4. de ling. lat. <hi>Caſ. lib.</hi> 5. <hi>c.</hi> 41. <hi>Caſaubon.</hi> Ex<g ref="char:EOLhyphen"/>ercit. <hi>Annal. Baron. Num.</hi> 10. &amp; Exer<g ref="char:EOLhyphen"/>cit. ad <hi>Appa<g ref="char:EOLhyphen"/>rat. Numb.</hi> 93.</note> For the firſt worke of the Cenſors was to value every mans eſtate, and to inventary both his Lands and Goods. The greeke word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifies to take or make an account, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> imports that which commonly is called an Inven<g ref="char:EOLhyphen"/>tary, &amp;c. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Chem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nitus</hi> out of <hi>Budaeus;</hi> and <hi>Caſanbon</hi> out of the <hi>Gloſſator</hi> ſaith, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; The Deſcription, was an Eſtimate of a mans ſubſtance; And in times paſt it was one part of the Cenſors office, <hi>habere &amp; ordi<g ref="char:EOLhyphen"/>nare Cenſus;</hi> But when the Cenſors were taken away, there were certaine men ſent into the Provinces, and they were called <hi>Cenſitors,</hi> who meaſured all mens Lands, and ſet them downe in their Bookes of Valuation; Hence alſo the word <hi>Cenſus</hi> is uſed to ſignifie a Valuation, or eſtimation of all mens abilities, as well in Rents of Lands, as Moveable Goods; And from this practiſe, <hi>To let</hi> derives the ſignification of <hi>Cenſus</hi> firſt named, ſaying, Obſerve that in times paſt, the Rents and Goods of Inhabitants were valued by the Emperour, that there might be made a juſt eſtimation of them; And ſuch an Eſtimation is cal<g ref="char:EOLhyphen"/>led <hi>Cenſus:</hi> and from thence the word was enlarged in ſigni<g ref="char:EOLhyphen"/>fication ſo that the eſtate which was prized, was called <hi>Cenſus.</hi>
+               </p>
+               <p n="2">2. The other ſignification of <hi>Cenſus</hi> is a Ceſſe, Taxe or Tri<g ref="char:EOLhyphen"/>bute, that is laid upon mens lands, goods, and eſtates. So it is tranſlated in <hi>Matth.</hi> 22.17. and <hi>Marke</hi> 12.14. For when the Cenſors had valued mens ſubſtance, then by their eſteeme there<g ref="char:EOLhyphen"/>of, they regulated and ordered every mans Scot and Taxe; Therefore the <hi>Graecians</hi> called the Cenſitors <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and the Latines <hi>Peraquatores.</hi> For they corrected the Bookes of Valu<g ref="char:EOLhyphen"/>ation, and divided amongſt the Citizens equally the Burden of the Tribute according to every mans eſtate; Thus <hi>Juli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nus</hi> and <hi>Hellenius</hi> were ſent into <hi>Cappadocia,</hi> to take a ſurvey of mens eſtates, and amongſt them to levell, and even the charge of the Tributes: which was heretofore the office of the Cenſors, and ſince of the Cenſitors, and from hence this word <hi>Cenſus</hi> came to meane a Taxe, Ceſſe, Scot, or Tribute.</p>
+               <p n="3">3. The Ceremony they uſed about this Office, was to enter thereon in a religious (or rather ſuperſtitious) way; For they did offer up certain ſacrifices, as a Sow, a Sheepe, and one Bull, as <hi>Pomponius Laetus,</hi> or three Bulls, as <hi>P. Martyr</hi> ſaith.<note place="margin">In 2 <hi>Sam.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> And a<g ref="char:EOLhyphen"/>nother
+<pb n="30" facs="tcp:113793:18"/> ceremonious obſervation they had herein, that when (one of the Cenſors happened to dye, they might not chooſe one in his roome, but it was ordered, that the Survivour ſhould a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di<g ref="char:EOLhyphen"/>cate and renounce the office, that ſo two Cenſors might be new choſen:<note place="margin">Feneſtella ubi ſupra.</note> which aroſe upon this occaſion; becauſe the <hi>French</hi>-men did take <hi>Rome</hi> in that yeare, wherein one Cenſor died, and another was put into his place. But theſe Pagan and heatheniſh rites vaniſhed away even at the riſing of the Sunne of Righte<g ref="char:EOLhyphen"/>ouſneſſe, and yet the office it ſelfe endured long after, as <hi>Caſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>bon</hi> affirmes, thereby acquitting <hi>Cenſorinus</hi> from the unjuſt cen<g ref="char:EOLhyphen"/>ſure of <hi>Baronius.</hi>
+               </p>
+               <p n="4">4. Laſtly, The time that it was at firſt uſually pract ſed in, and by the Law ſhould have continued, was every five yeare. If the Reader will compare the end of the fift Booke o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Dionyſ. Halica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n:</hi>
+                  <note place="margin">
+                     <hi>Exercit: ad</hi> Apparat. An<g ref="char:EOLunhyphen"/>nal. Baron. Num. <hi>93.</hi>
+                  </note> where <hi>T. Largius</hi> obſerved it, with the end of his ſixt booke, where it is againe executed, and number the yeares between, he ſhall finde them to be five. <hi>Calviſus</hi> in his Chrono<g ref="char:EOLhyphen"/>logy recounting the times hereof, makes it cleare to the obſer<g ref="char:EOLhyphen"/>ver. Hence the latine word <hi>Luſtrum</hi> ſignifies the ſpace of five yeares, and the <hi>Romans</hi> reckoned their times thereby, as the <hi>Greekes</hi> did by their <hi>Olympiads;</hi>
+                  <note place="margin">
+                     <hi>M. Cicero</hi> in <hi>lib.</hi> 3. de Legi<g ref="char:EOLhyphen"/>bus, ad initi<g ref="char:EOLhyphen"/>um.</note> yet it ſeemes this time of five yeares was altered; For it is reported by <hi>Feneſtella</hi> that <hi>Ma<g ref="char:EOLhyphen"/>mercus Aemilius</hi> when he was Dictator, did decree it ſhould be every yeare, or every yeare and halfe, as <hi>Alexander ab Alexan<g ref="char:EOLhyphen"/>dro:</hi>
+                  <note place="margin">B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>man. <hi>de</hi> O<g ref="char:EOLhyphen"/>rigin. ling. lat. <hi>in Luo.</hi>
+                  </note> Becauſe the Cenſors by the length of their office, were growne proud and inſolent. And it further appeares that the Cenſors did not every five yeares deſcribe, or value, and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e mens eſtates; For beſides the complaint of the two Conſuls in <hi>Dion. Halicar.</hi> before recited;<note place="margin">
+                     <hi>P. Mart.</hi> Vbi ſupra.</note> 
+                  <hi>Cenſorinus</hi> ſaith, <hi>Servius Tullius</hi> did ordaine that every fift yeare a Valuation of the Citizens being taken,<note place="margin">Vbi ſupra.</note> 
+                  <hi>Luſtrum conderetur:</hi> but ſo did not they which came after;<note place="margin">Vbi ſupra.</note> For whereas there are little leſſe then ſixe hundred and fifty yeares between that which <hi>Servius</hi> did obſerve, and that of <hi>Veſpaſian</hi> and <hi>Titus,</hi> yet there were no more then ſe<g ref="char:EOLhyphen"/>venty five <hi>Luſtra;</hi>
+                  <note place="margin">Apud <hi>Calviſ. Chronol.</hi> in Anno Chriſti. 74.</note> and afterwards they left the ſame quite off. This laſt clauſe is that which <hi>Baronius</hi> carped at, and <hi>Caſau<g ref="char:EOLhyphen"/>bon</hi> cleared from his miſtake. And ſo much briefely for the (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) manner of the <hi>Romans</hi> doing this work. Come we to</p>
+               <p n="2">
+                  <pb n="31" facs="tcp:113793:18"/>2. The (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) Reaſons why they did thus practiſe. The grounds whereon, and ends whereunto they moved herein: they ſeeme to be eſpecially to be theſe.</p>
+               <p n="1">1. The expiating and purging of the people:<note place="margin">
+                     <hi>P. Mart.</hi> in 2 <hi>Sam.</hi> 2.4.</note> Hence the Verb <hi>Luſtro</hi> uſed by good Authors to expreſſe the worke of the Cenſors, ſignifies not onely to view, and compaſſe about, but alſo to purge by ſacrifice: what their ſacrifices were, hath been intimated; and herein it is a probable conjecture of the Lear<g ref="char:EOLhyphen"/>ned, that they did imitate the <hi>Iſraelites,</hi> who were enjoyned by the Lord their God at every Deſcription, to bring an offering for the expiating of their Soules; <hi>Exod.</hi> 30.12, 13, 14, 15, 16.</p>
+               <p n="2">2. To know the number of the People, for the raiſing of Souldiers, when occaſion required an Army.</p>
+               <p n="3">3. To finde out the ability and wealth of every particular perſon, and ſo of every Province, Kingdome, Nation, and the whole Empire in generall; which was neceſſary for them to underſtand.</p>
+               <p n="1">1. That they might the better diſtinguiſh of their people,<note place="margin">Cenſus diſcri<g ref="char:EOLhyphen"/>men haben<g ref="char:EOLhyphen"/>dum ut inde dignitatis <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>cio inter cive<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> haberi quoque poſſit, item &amp; onerum pub<g ref="char:EOLhyphen"/>licorum. <hi>Da<g ref="char:EOLhyphen"/>naeus</hi> in ſylv<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Aphoriſ. Po<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t.</hi> Controverſ. 9. In loc. com. Jurid. collect. ex Operibus <hi>Senecae.</hi> Vide <hi>Alex ab Alex li.</hi> 4. <hi>c.</hi> 11. Vbi ſupra. Id. Ibid. <hi>Budaeus</hi> apud <hi>Chemnit.</hi> Vbi ſupra.</note> and particular perſons, and accordingly order them into their ſeverall rankes and degrees. This uſe <hi>Servius Tullius</hi> made of it, and ſo did all the following Cenſors, as appeares by <hi>Seneca, Gothofredus,</hi> and others.</p>
+               <p n="2">2. That they might equally taxe every man: for according to each mans Eſtate was his Tribute, Ceſſe, or Scot proportio<g ref="char:EOLhyphen"/>ned, as hath been hinted already.</p>
+               <p n="3">3. That hereby they might have ſome gueſſe at the com<g ref="char:EOLhyphen"/>mings in of the State, its Revenues, whereby they might regu<g ref="char:EOLhyphen"/>late their expences, both in times of warre and peace.</p>
+               <p n="4">4. Laſtly, hereby was intended, an acknowledgement of ſubjection from the Perſons and People ſo deſcribed, valued, or <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed. Their confeſſion of their Names and Eſtates, to be there<g ref="char:EOLhyphen"/>by ſcotted and ceſſed, to pay Tributes and Subſidies, was a Pro<g ref="char:EOLhyphen"/>feſſion of their ſubmiſſion to the Commander. And ſo we have done with the Practiſe of the valuing and prizing of mens eſtates.</p>
+               <p n="2">2. The next thing concerning the ſame to be enquired after is, the originall thereof, which being opened, the command thereof by prudent Governours will plainely appeare. I finde
+<pb n="32" facs="tcp:113793:19"/> 
+                  <hi>Plato</hi> in his Common-wealth to take this Order,<note place="margin">De legibus lib. 6. 12.</note> ſaying, <hi>After this manner Publicke Contributions ſhall be diſpenſed; Firſt, for the benefit of many ſhall be had a Valuation, or an Eſtimate of every mans whole eſtate, &amp;c.</hi> The Names of all perſons, and Summes of their eſtates he commanded to be enrowled; And if any man failed in the <hi>Manifeſto</hi> of his ſubſtance, the puniſhment he did enjoyne for him, was, that the Remainder or Overplus concealed ſhould be made common, and diſtributed amongſt the people, and the delinquent to become infamous, as one that deſpiſed the Lawes for lucre ſake, and who would, might accuſe him, &amp;c. Thus runnes that Philoſophers Law concerning this particular in hand; But he was not the firſt that trod out this way: For before he was borne, threeſcore and ſixe yeares, or there abouts did <hi>Solon</hi> govern <hi>Athens, (Anno ante Chriſtum</hi> 592.) by whom amongſt other Lawes, this was alſo made a Law, that every man ſhould every yeare declare unto the publicke Magiſtrate,<note place="margin">Et imprimis haec lex com<g ref="char:EOLhyphen"/>mendatur quam tulit, ut quiſque quotannis in<g ref="char:EOLhyphen"/>dicaret Ma<g ref="char:EOLhyphen"/>giſtratui mag<g ref="char:EOLhyphen"/>nitudinem fa<g ref="char:EOLhyphen"/>cultatum ſua<g ref="char:EOLhyphen"/>rum, &amp; arti<g ref="char:EOLhyphen"/>ficil genus un<g ref="char:EOLhyphen"/>de ſibi hone<g ref="char:EOLhyphen"/>ſte victum pa<g ref="char:EOLhyphen"/>raret. <hi>Carion. Chron. lib.</hi> 2. In the life of <hi>Solon.</hi>
+                  </note> the quantity of his wealth, and his kind of Trade, whereby <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e did honeſtly get his living. And <hi>Plutarch</hi> ſaith, <hi>Solon</hi> being deſirous to have the chiefe Offices of the City, to remaine in rich mens hands, as already they did, and yet to mingle the Authority of Government in ſuch ſort, as the meaner people might beare a little ſway, which they never could before, he made an Eſtimate of the goods of every private Citizen: and thoſe he found yearely worth five hundred buſhells of corne, and other liquid fruites and upwards, he called <hi>Pentaco<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omedimnes,</hi> as to ſay, Five hundred buſhell men of Revenues. And thoſe that had three hundred buſhells a yeare, and were a<g ref="char:EOLhyphen"/>ble to keepe a Horſe of ſervice, he put in the ſecond degree, and called them Knights. They that might diſpend but two hundred buſhells a yeare, were put in the third place, and cal<g ref="char:EOLhyphen"/>led <hi>Zeugites;</hi> Yokemen or Farmers. All other under theſe, were called <hi>Thetes,</hi> that is, Labourers, who are ſet at worke by other men. Theſe latter, he did not admit to beare any office in the City, neither were they taken as free Citizens, ſaving they had Votes in Elections and Aſſemblies of the City, and in Judg<g ref="char:EOLhyphen"/>ments, where the People wholly judged. It may eaſily be con<g ref="char:EOLhyphen"/>ceived that <hi>Servius Tullius</hi> who came to be King of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> about ſeventeene yeares at the moſt, after <hi>Solon</hi> tooke on
+<pb n="33" facs="tcp:113793:19"/> him the Rule of <hi>Athens,</hi> did imitate him herein;<note place="margin">Ab eo <hi>(Solo<g ref="char:EOLhyphen"/>ne)</hi> Civilis <hi>Ro<g ref="char:EOLhyphen"/>manorum</hi> J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ris, cujus eti<g ref="char:EOLhyphen"/>am hodiè paſ<g ref="char:EOLhyphen"/>ſim uſus eſt, origo dema<g ref="char:EOLhyphen"/>navit <hi>Carion Chron. lib.</hi> 2. <hi>Textor</hi> in officina de <hi>Rom.</hi> Regi<g ref="char:EOLhyphen"/>bus. Deſcriptio<g ref="char:EOLhyphen"/>nem Civitatis a majoribus noſtris ſapi<g ref="char:EOLhyphen"/>entiſſimè con<g ref="char:EOLhyphen"/>ſtitutam; &amp;c. pro <hi>P. S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xtio.</hi> Vbi ſupra. Vbi ſupra. Vbi ſupra. Quintum fo<g ref="char:EOLhyphen"/>mentum E<g ref="char:EOLhyphen"/>qualitas. h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> c, ut juſta &amp; u<g ref="char:EOLhyphen"/>niformis con<g ref="char:EOLhyphen"/>tributio ſit, nec per bo<g ref="char:EOLhyphen"/>nam malamve gratiam, hunc ſubleves, il<g ref="char:EOLhyphen"/>lum premas. Huic autem aequalitati ra<g ref="char:EOLhyphen"/>tio unica; Cenſus. Res ſaluberrima magno fururo imperio, quem neſciri aut negligi hodie non mirer? &amp;c. Civil. Doctri<g ref="char:EOLhyphen"/>nae lib. 4 c. 11.</note> for the <hi>Ro<g ref="char:EOLhyphen"/>manes</hi> derived their Lawes from <hi>Solons,</hi> as the learned have ob<g ref="char:EOLhyphen"/>ſerved; as <hi>Solon</hi> received the grounds of his owne, from other Nations, and eſpecially the <hi>Egyptians,</hi> amongſt whom he ſo<g ref="char:EOLhyphen"/>journed in his Travels.</p>
+               <p n="3">3. Finally for the commendation of this Act of Civill Policy, it may ſafely be affirmed that as many Authors making men ion thereof, doe highly prayſe it, ſo as yet I have found not one which doth in the leaſt meaſure impeach the ſame: The high eſteeme thoſe two noted Hiſtorians, <hi>Livy</hi> and <hi>Dion: Halicar<g ref="char:EOLhyphen"/>naſſeus</hi> had thereof, may appeare by their words already reci<g ref="char:EOLhyphen"/>ted; And <hi>M. Cicero</hi> who doubtleſſe underſtood the myſteries of State Affaires, ſo well as any of his ranke ever did, doth ſay, Our Anceſtors did moſt wiſely conſtitute the Deſcription of the City; <hi>Plutarch</hi> alſo extolls that Act of <hi>Solon,</hi> as of moſt excellent uſe, as his law thereof is praiſed by <hi>Ph. Melancthon. P. Martyr</hi> ſaith, It was very commodious; Beſides the Excel<g ref="char:EOLhyphen"/>lency thereof appeares by the dignity of the Perſons that onely were choſen to that office, as hath been ſhowne: But of late wri<g ref="char:EOLhyphen"/>ters in this particular, <hi>Lypſius</hi> may be <hi>inſtar omnium,</hi> who moſt fully commends the uſe and practiſe hereof unto all Princes and Magiſtrates, in this manner. The fift meanes to mitigate and abate the hatred and diſcontent which uſeth to ariſe in the hearts of Subjects againſt their Princes &amp; Governors, by reaſon of Taxes, and ſuch like publike burdens impoſed on them, is E<g ref="char:EOLhyphen"/>quality; that is, A juſt and uniforme contribution, the ſame thing being not made greater or leſſer to any man, either for love or hatred: To which equality there is but one way, <hi>The valuing of every mans eſtate;</hi> a thing moſt profitable to make any Dominion great. Shall I wonder that it is unknowne or neglected in theſe times? Truely I may, ſeeing there are ſuch evident and obvi<g ref="char:EOLhyphen"/>ous examples thereof, (For what Common-wealth hath in times paſt been meanely good without it?) and that it is with<g ref="char:EOLhyphen"/>all of ſuch manifeſt uſe. <hi>Plato</hi> ſaid rightly, <hi>It is very profitable that every man bring forth his eſtate to be rated or v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lued;</hi> bec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe hereby alone it would come to paſſe, that all degrees of Patri<g ref="char:EOLhyphen"/>mony, Dignity, Age, Arts and Offices would be enrol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, whereby would appeare, how able all Cities and Countries
+<pb n="34" facs="tcp:113793:20"/> were to leavie both ſouldiers and money. Laſtly, Hereby Tribute might yearely be paid in an equall proportion. Wherefore if thou O Prince, or Governour be wiſe, recall this practiſe, both for thine Owne and the Publicke Good; and Cenſors being choſen, let all the People, with their Ages, Off-ſpring, Families and Eſtates be regiſtred. To theſe Cenſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s muſt all power be given of making the Eſtimate of their Eſtates, and Summe of their Taxe.</p>
+               <p>But by whom ſhall they be choſen? If you will heare me, to take away hatred and ſuſpitions from that office which of it ſelfe is diſpleaſing, let the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople deſigne them, that they may with the greateſt care elect ſuch as they will put moſt confidence in concerning their eſtates. How many muſt be choſen? Let there be two or three in every City. How often muſt this De<g ref="char:EOLhyphen"/>ſcription, or V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luation be? They differ herein, for in ſome Ci<g ref="char:EOLhyphen"/>ties, it is every yeare, and in other greater Cities never but in the third or fift yeare: But I conceive it would be more ſafe, and better to be every yeare, becauſe of mens remoovings from place to place, their deaths, increaſe and decreaſe in eſtate. Thus farre <hi>Lypſius,</hi> with whom I cannot but conſent, and yet with theſe cautions.</p>
+               <p n="1">1. That theſe Cenſors, whether two or three in a City or P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſh, be in this Kingdome choſen, not by the vulgar people, but by the Honourable Parliament, who as they are the Wiſe<g ref="char:EOLhyphen"/>doe of this Nation, ſo they are the Repreſentative Body of the ſame.</p>
+               <p n="2">2. That theſe Cenſors have Power to give an Oath to every man who is to be deſcribed, valued, or prized, to draw from him a true confeſſion of his whole eſtate, as <hi>Servius Tullius</hi> did unto the <hi>Romans.</hi>
+               </p>
+               <p n="3">3. That ſuch perſons as notwithſtanding their Oath (for as ſome have, ſo others will preferre money before faith and truth) ſhall like <hi>Ananias</hi> conceale any part of their wealth, doe by ſome law for that end to be made, forfeit the particu<g ref="char:EOLhyphen"/>lars concealed, unto the King and State, and they themſelves be proceeded againſt in Law as guilty of Perjury.</p>
+               <p n="4">4. That the Cenſors themſelves be ſworne to execute their office without partiality: and if they wilfully ſwerve from
+<pb n="35" facs="tcp:113793:20"/> their oath and equity, then that they be fined, or other wayes puniſhed, as the State ſhall thinke moſt fit.</p>
+               <p n="5">5. That this Deſcription be once every yeare.</p>
+               <p n="6">6. Laſtly, That theſe Cenſors be ordained in every Pariſh, or at the leaſt in every Hundred, to leſſen their trouble that they may the more exactly manage their office, which will be accompanied with many incumbrances and difficulties, eſpeci<g ref="char:EOLhyphen"/>ally at the firſt ſetting it on foot, by reaſon of that naturall a<g ref="char:EOLhyphen"/>verſeneſſe, which is generally in men from all good that is pub<g ref="char:EOLhyphen"/>licke; and from this particular moſt of all, becauſe at the firſt ſight it will ſeeme to croſſe their <hi>Having diſpoſition;</hi> But the truth is, if it were throughly and ſeriouſly conſidered without all prejudice,<note place="margin">Cenſorum qui in ſingulorum Cenſum mo<g ref="char:EOLhyphen"/>res, &amp; vitam liberè &amp; ſin<g ref="char:EOLhyphen"/>cerè tamen inquirant, po<g ref="char:EOLhyphen"/>teſtas in quavis Repub. bene inſtituta eſt neceſſaria. <hi>Danaeus.</hi> Reſp. optima eſt in quâ om<g ref="char:EOLhyphen"/>nes magiſtra<g ref="char:EOLhyphen"/>tus &amp; cives conferunt om<g ref="char:EOLhyphen"/>nia ſua ad Reip. ſalutem vel commo<g ref="char:EOLhyphen"/>dum. Id. è. <hi>Plut.</hi> de Civil. Admi<g ref="char:EOLhyphen"/>niſtr.</note> (which blinds many tim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the cleareſt eyes of the ſharpeſt underſtandings) it would appeare to be not onely uſe<g ref="char:EOLhyphen"/>full, but alſo neceſſary to the well-being of the Republicke; For that Common-wealth is in a very good condition, in which all Perſons, Magiſtrates and People doe conferre all that they have to the Benefit of the State. Now the health of the body in generall is made up of the proſperity of each particular mem<g ref="char:EOLhyphen"/>ber; wherefore every perſon ſhould even for his owne good bring forth his eſtate for the publicke uſe of the Kingdome; much more ſhould he be willing to pay, and part with the Taxe ceſſed on his State, never grudging and repining thereat, eſpe<g ref="char:EOLhyphen"/>cially if equally made. Doubtleſſe if every man would worke himſelfe to come off freely in theſe matters, not onely the bo<g ref="char:EOLhyphen"/>dy in generall would be ſaved, but each particular member alſo preſerved, yea and the quantity of moſt mens taxes be leſſened to their great content; But when men ſhall be ſo purblinde as not to ſee the good they doe themſelves, when they in any way accommodate the State, and thereupon doe preferre their own private welfare before the Publicke, they runne the higheſt way to ruine both. For proofe hereof many notable inſtances ſad experience can produce; But that ſhamefull loſſe of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople</hi> is witneſſe enough.<note place="margin">See Maſter <hi>Knowles</hi> his hiſtory of the <hi>Turkes</hi> in the life of <hi>Maho<g ref="char:EOLhyphen"/>met</hi> the Great.</note> When <hi>Mahomet</hi> the Great be<g ref="char:EOLhyphen"/>ſieged that City, the Poore Emperour many times with teares in vaine requeſted but to have borrowed money of his cove<g ref="char:EOLhyphen"/>tous Subjects, to have been imployed in the defence of the Ci<g ref="char:EOLhyphen"/>ty, but they would ſtill ſweare, that they had it not, as men
+<pb n="36" facs="tcp:113793:21"/> growne poore for want of Trade, which in few dayes after their enemies found in ſuch abundance that they wondred at their wealth, and derided their folly, that poſſeſſing ſo much, they would beſtow ſo little in defence of themſelves and their Countrey. To ſpeake of the hidden treaſure, money, plate, jewels, and other riches there found, paſſeth credit. The <hi>Turkes</hi> themſelves wondred thereat, and were therewith ſo enriched, that it is a Proverb amongſt them at this day, if any of them grow ſuddenly rich, to ſay, <hi>He hath been at the ſacking of Conſtan<g ref="char:EOLhyphen"/>tinople.</hi> Wherof if ſome reaſonable part had in time bin beſtow<g ref="char:EOLhyphen"/>ed upon defence of the city, the <hi>Turkiſh</hi> King had not ſo eaſily ta<g ref="char:EOLhyphen"/>ken it. But every man was carefull how to increaſe his owne private wealth, few or none regarding the Publicke State, un<g ref="char:EOLhyphen"/>till <hi>in fine</hi> every man with his privat abundance,<note place="margin">
+                     <hi>Eccleſ.</hi> 5.12.</note> was wrapped up together in the ſelfe ſame common miſery; And indeed this is no wonder to a Chriſtian who knowes that ſometimes riches are reſerved by their Owners to their owne hurt and evill both in this life, and that to come; but hereof I ſay no more than the old ſaid ſaw,
+<q>Felix quem faciunt aliena pericula cautum.</q>
+               </p>
+               <p>Wherefore to conclude, As the readieſt way to ſuppreſſe unjuſt Uſury, is to raiſe Bankes of Charity, and Trade, and as to the perfecting of thoſe Bankes, the open diſcovery of every mans eſtate is neceſſary, ſo it appeares to be an undoubted poſi<g ref="char:EOLhyphen"/>tion, That the Perſon who would approve himſelfe a true Chriſtian, and a good Common-wealths man, muſt confeſſe, re<g ref="char:EOLhyphen"/>veale, and lay open his whole eſtate, whenſoever he ſhall be duely called thereunto.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
